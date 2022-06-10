@@ -7,6 +7,6 @@ public class ExercicioRepita {
         int n;
         do {
             n = Integer.parseInt(JOptionPane.showInputDialog(null, "Informe um número (0 para parar): "));
-        } while (n!=0);
+        } while (n != 0);
     }
 }
