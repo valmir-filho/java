@@ -1,7 +1,8 @@
 Repositório de exercícios da linguagem de programação Java.
 
-Conteúdo:  
+Conteúdos:  
 
-1. Exercícios do Curso em Vídeo do Prof. Guanabara. 
+1. Exercícios do curso de Java do Curso em Vídeo do Prof. Guanabara;
+2. Exercícios do curso de Java da Udemy.
 
 IDEs utilizadas: IntelliJ e Eclipse.
