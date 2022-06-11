@@ -4,4 +4,4 @@ Conteúdo:
 
 1. Exercícios do Curso em Vídeo do Prof. Guanabara. 
 
-IDE utilizada: IntelliJ.
+IDEs utilizadas: IntelliJ e Eclipse.
