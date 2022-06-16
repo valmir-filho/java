@@ -1,4 +1,4 @@
-package exemplo8;
+package classes.metodos.exemplo8;
 
 public class VariavelGlobal {
 	
