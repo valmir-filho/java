@@ -3,9 +3,7 @@ package colecoes;
 import java.util.ArrayList;
 
 public class Lista {
-	
 	public static void main(String[] args) {
-		
 		ArrayList<Usuario> lista = new ArrayList<Usuario>();
 		Usuario u1 = new Usuario("Ana");
 		lista.add(u1);  // Uma forma de adicionar na lista.
@@ -14,11 +12,11 @@ public class Lista {
 		lista.add(new Usuario("Bia"));
 		lista.add(new Usuario("Manu"));
 		for(Usuario u: lista) {  // Percorre a lista.
-			System.out.println(u.toString());  // Chamei o método criado.
+			System.out.println(u.toString());  // Chama o método criado.
 		}
-		System.out.println(lista.get(3));  // Estou imprimindo uma posição específica da lista.
-		lista.remove(1);  // Estou removendo o elemento na posição 1 da lista.
+		System.out.println(lista.get(3));  // Imprime uma posição específica da lista.
+		lista.remove(1);  // Remove o elemento na posição 1 da lista.
 		lista.remove(new Usuario("Manu"));  // Outra forma de remover.
-		System.out.println(lista.contains(new Usuario("Lia")));  // Verificando se contém o nome "Lia" na lista.
+		System.out.println(lista.contains(new Usuario("Lia")));  // Verifica se contém o nome "Lia" na lista.
 	}
 }
