@@ -1,7 +1,6 @@
 package classes.metodos.exemplo10;
 
 public class ValoresPadrao {
-	
 	static byte a;
 	static short b;
 	static int c;
@@ -10,17 +9,11 @@ public class ValoresPadrao {
 	static double f;
 	static boolean g;
 	static String h;
-	/*Como as variáveis nesse caso são globais,
-	 * elas assumem os seus valores padrão.
-	 */
-	final int X = 50;  // No caso de constantes, preciso sempre inicializar. 
-	
+	// Como as variáveis nesse caso são globais, elas assumem os seus valores padrão.
+	final int X = 50;  // No caso de constantes, precisa sempre inicializar. 
 	public static void main(String[] args) {
-		
 		int x = 10;
-		/* Como aqui a variável x é local,
-		 * obrigatoriamente eu preciso inicializá-la.
-		 */
+		// Como aqui a variável x é local, obrigatoriamente precisa inicializá-la.
 		System.out.println(a);
 		System.out.println(b);
 		System.out.println(c);
