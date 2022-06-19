@@ -1,10 +1,8 @@
 package classes.metodos.exemplo1;
 
 public class ProdutoTeste {
-	
 	public static void main(String[] args) {
-		
-		Produto p1 = new Produto();  // Criei (instanciei) um objeto.
+		Produto p1 = new Produto();  // Cria (instancia) um objeto.
 		p1.nome = "Notebook";
 		p1.preco = 4345.89;
 		p1.desconto = 0.25;
