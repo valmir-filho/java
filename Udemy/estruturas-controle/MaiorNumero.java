@@ -3,9 +3,7 @@ package estruturas.controle;
 import java.util.Scanner;
 
 public class MaiorNumero {
-	
 	public static void main(String[] args) {
-		
 		int maiorValor = 0;
 		int contador = 0;
 		Scanner scan = new Scanner(System.in);

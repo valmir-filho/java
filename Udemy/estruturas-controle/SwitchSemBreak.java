@@ -1,9 +1,7 @@
 package estruturas.controle;
 
 public class SwitchSemBreak {
-	
 	public static void main(String[] args) {
-		
 		String faixa = "verde";
 		switch(faixa.toLowerCase()) {
 		case "preta":

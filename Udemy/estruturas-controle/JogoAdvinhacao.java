@@ -4,9 +4,7 @@ import java.util.Random;
 import java.util.Scanner;
 
 public class JogoAdvinhacao {
-	
 	public static void main(String[] args) {
-		
 		int continuar, numeroSorteado, tentativas, numero;
 		Scanner scan = new Scanner(System.in);
 		do {

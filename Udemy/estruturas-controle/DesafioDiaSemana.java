@@ -3,9 +3,7 @@ package estruturas.controle;
 import java.util.Scanner;
 
 public class DesafioDiaSemana {
-	
 	public static void main(String[] args) {
-		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Digite um número entre 1 e 7: ");
 		int num = scan.nextInt();

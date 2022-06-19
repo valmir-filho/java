@@ -3,9 +3,7 @@ package estruturas.controle;
 import java.util.Scanner;
 
 public class AnoBissexto {
-	
 	public static void main(String[] args) {
-		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Digite um ano qualquer: ");
 		int ano = scan.nextInt();

@@ -3,9 +3,7 @@ package estruturas.controle;
 import java.util.Scanner;
 
 public class StatusAluno {
-	
 	public static void main(String[] args) {
-		
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Digite a nota 1: ");
 		double n1 = scan.nextDouble();

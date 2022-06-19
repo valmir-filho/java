@@ -3,9 +3,7 @@ package estruturas.controle;
 import java.util.Scanner;
 
 public class NumerosPositivos {
-	
 	public static void main(String[] args) {
-		
 		double num = 0;
 		double soma = 0;
 		Scanner scan = new Scanner(System.in);

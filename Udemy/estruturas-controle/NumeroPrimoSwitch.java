@@ -3,9 +3,7 @@ package estruturas.controle;
 import java.util.Scanner;
 
 public class NumeroPrimoSwitch {
-	
 	public static void main(String[] args) {
-		
 		int contadorDivisores = 0;
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Digite um número inteiro positivo qualquer: ");
