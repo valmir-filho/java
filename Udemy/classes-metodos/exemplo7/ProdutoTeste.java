@@ -1,9 +1,7 @@
 package classes.metodos.exemplo7;
 
 public class ProdutoTeste {
-	
 	public static void main(String[] args) {
-		
 		Produto p1 = new Produto("Notebook");
 		p1.preco = 4345.89;
 		Produto p2 = new Produto("Caneta");
