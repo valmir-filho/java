@@ -3,7 +3,6 @@ package arrays;
 public class Exemplo3 {
 	
 	public static void main(String[] args) {
-		
 		double[] notasAluno1 = new double[4];
 		notasAluno1[0] = 5.5;
 		notasAluno1[1] = 6.5;
