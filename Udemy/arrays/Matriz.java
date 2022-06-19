@@ -4,9 +4,7 @@ package arrays;
 import java.util.Scanner;
 
 public class Matriz {
-	
 	public static void main(String[] args) {
-		
 		int quantidadeAlunos, numeroNotas;
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Informe a quantidade de alunos da turma: ");
