@@ -5,11 +5,10 @@ import java.util.Scanner;
 public class DesafioConversao {
 	
 	public static void main(String[] args) {
-		
 		Scanner scan = new Scanner (System.in);
 		System.out.print("Informe o salário 1: ");
 		String s1 = scan.nextLine().replace(",", ".");  // Substitui a vírgula por ponto.
-		double salario1 = Double.parseDouble(s1);  // Converti String em double.
+		double salario1 = Double.parseDouble(s1);  // Converte uma String em double.
 		System.out.print("Informe o salário 2: ");
 		String s2 = scan.nextLine().replace(",", ".");
 		double salario2 = Double.parseDouble(s2);

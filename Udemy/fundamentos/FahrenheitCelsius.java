@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class FahrenheitCelsius {
 	
 	public static void main(String[] args) {
-		
 		Scanner scan = new Scanner (System.in);
 		System.out.print("Digite a temperatura em ˚F: ");
 		double temperatura = scan.nextDouble();

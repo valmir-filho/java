@@ -1,9 +1,7 @@
 package fundamentos;
 
 public class TipoString {
-	
 	public static void main(String[] args) {
-		
 		System.out.println("Olá pessoal".charAt(2));  // Imprime a letra do índice 2.
 		String s = "Boa tarde!";
 		System.out.println(s.startsWith("F"));  // Serve para verificar como inicia a String.

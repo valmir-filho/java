@@ -4,8 +4,7 @@ import java.util.Scanner;
 
 public class AreaTriangulo {
 	
-	public static void main(String[] args) {
-		
+	public static void main(String[] args)
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Digite o valor da base do triângulo: ");
 		double base = scan.nextDouble();

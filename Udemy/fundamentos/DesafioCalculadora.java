@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class DesafioCalculadora {
 	
 	public static void main(String[] args) {
-		
 		Scanner scan = new Scanner (System.in);
 		System.out.print("Digite o 1˚ número: ");
 		double num1 = scan.nextDouble();

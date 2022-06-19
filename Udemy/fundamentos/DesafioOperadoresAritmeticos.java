@@ -3,7 +3,6 @@ package fundamentos;
 public class DesafioOperadoresAritmeticos {
 	
 	public static void main(String[] args) {
-		
 		double numerador1 = Math.pow((6 * (3 + 2)), 2);
 		double denominador1 = 3 * 2;
 		double divisao1 = numerador1 / denominador1;
