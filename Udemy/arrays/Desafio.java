@@ -3,9 +3,7 @@ package arrays;
 import java.util.Scanner;
 
 public class Desafio {
-	
 	public static void main(String[] args) {
-		
 		int tamanhoArray;
 		Scanner scan = new Scanner(System.in);
 		System.out.print("Informe quantas notas quer incluir: ");
