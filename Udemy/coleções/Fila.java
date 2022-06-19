@@ -4,9 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 public class Fila {  // Usa o sistema "FIFO: First In First Out", ou seja, o primeiro que entra é o primeiro que sai.
-	
 	public static void main(String[] args) {
-		
 		Queue<String> fila = new LinkedList<String>();  // Forma de criar uma fila.
 		fila.add("Ana");  // Adiciona um elemento na fila.
 		fila.offer("Bia");  // Outra forma de adicionar.

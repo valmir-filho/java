@@ -5,9 +5,7 @@ import java.util.Map;
 import java.util.Map.Entry;
 
 public class Mapa {  // Parecido com um dicionário.
-	
 	public static void main(String[] args) {
-		
 		Map<Integer, String> usuarios = new HashMap<Integer, String>();
 		usuarios.put(1, "Roberto");  // Adiciona (ou altera) valores.
 		usuarios.put(2, "Pedro");
@@ -28,9 +26,9 @@ public class Mapa {  // Parecido com um dicionário.
 		for(String valor: usuarios.values()) {  // Percorre os valores do Map.
 			System.out.println(valor);
 		}
-		for(Entry<Integer, String> usuario: usuarios.entrySet()) {  // Posso percorrer o Map, usando esse for.
-			System.out.println(usuario.getKey());  // Posso percorrer as chaves do Map.
-			System.out.println(usuario.getValue());  // Posso percorrer os valores do Map.
+		for(Entry<Integer, String> usuario: usuarios.entrySet()) {  // Percorre o Map
+			System.out.println(usuario.getKey());  // Percorre as chaves do Map.
+			System.out.println(usuario.getValue());  // Percorre os valores do Map.
 		}
 		System.out.println(usuarios.remove(2));  // Remove o valor da chave 2 do Map.
 	}
