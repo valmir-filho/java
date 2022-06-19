@@ -1,9 +1,7 @@
 package poo.relacionamento1para1;
 
 public class CarroTeste {
-	
 	public static void main(String[] args) {
-		
 		Carro c1 = new Carro();
 		System.out.println("Está ligado? " + c1.estaLigado());
 		System.out.println("Ligando o carro...");
