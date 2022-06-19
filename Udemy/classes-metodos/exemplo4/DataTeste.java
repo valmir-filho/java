@@ -1,9 +1,7 @@
 package classes.metodos.exemplo4;
 
 public class DataTeste {
-	
 	public static void main(String[] args) {
-		
 		Data d1 = new Data(07, "maio", 1979);
 		Data d2 = new Data(30, "maio", 1979);
 		Data d3 = new Data();
