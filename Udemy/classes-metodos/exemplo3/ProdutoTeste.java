@@ -1,10 +1,8 @@
 package classes.metodos.exemplo3;
 
 public class ProdutoTeste {
-	
 	public static void main(String[] args) {
-		
-		Produto p1 = new Produto("Notebook");  // Passei o parâmetro do método construtor na hora de criar o objeto.
+		Produto p1 = new Produto("Notebook");  // Passado o parâmetro do método construtor na hora de criar o objeto.
 		p1.preco = 4345.89;
 		p1.desconto = 0.25;
 		Produto p2 = new Produto("Caneta");
