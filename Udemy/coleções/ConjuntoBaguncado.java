@@ -17,7 +17,7 @@ public class ConjuntoBaguncado {
 		/* Mesmo adicionando dados repetidos, o tamanho não será alterado, pois o "hashset não aceita dados
 		repetidos. */
 		conjunto.remove("Teste");  // Remove um elemento.
-		System.out.println(conjunto.contains(1))  // Verific se contém o número "1" dentro do conjunto.
+		System.out.println(conjunto.contains(1));  // Verifica se contém o número "1" dentro do conjunto.
 		System.out.println(conjunto);
 		HashSet nums = new HashSet();
 		nums.add(1);
