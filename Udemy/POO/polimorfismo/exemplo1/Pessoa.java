@@ -8,7 +8,7 @@ public class Pessoa {
 		this.peso = peso;
 	}
 	public void comer(Arroz arroz) {
-		this.peso += arroz.getPeso(); 
+		this.peso += arroz.getPeso();
 	}
 	public void comer(Feijao feijao) {  // Sobrecarga do método "comer".
 		this.peso += feijao.getPeso();
