@@ -1,6 +1,6 @@
 package lambdas.exemplo5;
 
-import java.util.function.Predicate;
+import java.util.function.Predicate;  // Interface funcional.
 
 public class Predicado {
 	public static void main(String[] args) {
