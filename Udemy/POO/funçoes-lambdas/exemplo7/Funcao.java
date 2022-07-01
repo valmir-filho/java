@@ -9,7 +9,8 @@ public class Funcao {  // Interface funcional.
 		System.out.println();
 		Function<String, String> oResultadoE = valor -> "O resultado é: " + valor;
 		Function<String, String> empolgado = valor -> valor + "!!!";
-		String resultadoFinal = parOuImpar.andThen(oResultadoE).andThen(empolgado).apply(32);  // O comando "andThen" está encadeando uma função na outra (composição de funções).
+		String resultadoFinal = parOuImpar.andThen(oResultadoE).andThen(empolgado).apply(32);
+		// O comando "andThen" está encadeando uma função na outra (composição de funções).
 		System.out.println(resultadoFinal);
 	}
 }
