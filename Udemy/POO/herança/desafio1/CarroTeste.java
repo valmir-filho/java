@@ -1,4 +1,4 @@
-package heranca.desafio;
+package heranca.desafio1;
 
 public class CarroTeste {
 	public static void main(String[] args) {
