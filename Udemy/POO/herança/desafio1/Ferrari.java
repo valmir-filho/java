@@ -1,4 +1,4 @@
-package heranca.desafio;
+package heranca.desafio1;
 
 public class Ferrari extends Carro {
 	@Override
