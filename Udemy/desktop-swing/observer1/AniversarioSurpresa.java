@@ -1,4 +1,4 @@
-package swing.desktop.observer1;
+package desktop.swing.observer1;
 
 public class AniversarioSurpresa {
 	public static void main(String[] args) {
