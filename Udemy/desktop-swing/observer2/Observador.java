@@ -11,9 +11,8 @@ public class Observador {
 		janela.setSize(600, 200);  // Comando para definição do tamanho da janela.
 		janela.setLayout(new FlowLayout());
 		janela.setLocationRelativeTo(null);
-		/* Comando para posicionar a nova tela criada. Se o parâmetro for "nulo", ocorre a centralização 
-		 * na tela do computador, senão, a janela fica centralizada na tela do próprio programa que está
-		 * sendo utilzado */
+		/* Comando para posicionar a nova tela criada. Se o parâmetro for "nulo", ocorre a centralização tela do computador, senão, a janela
+		fica centralizada na tela do próprio programa que está sendo utilizado */
 		JButton botao = new JButton("Clicar!");  // Comando para criação de um "botão" na janela.
 		janela.add(botao);  // Comando para adicionar o botão na janela.
 		botao.addActionListener(e -> {  // Comando (função lambda) para fazer com que o evento ocorra.
