@@ -1,4 +1,4 @@
-package swing.desktop.observer1;
+package desktop.swing.observer1;
 
 public interface ObservadorChegadaAniversariante {
 	public void chegou(EventoChegadaAniversariante evento);
