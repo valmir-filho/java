@@ -1,4 +1,4 @@
-package swing.desktop.observer2;
+package desktop.swing.observer2;
 
 import java.awt.FlowLayout;
 import javax.swing.JButton;
