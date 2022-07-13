@@ -12,7 +12,7 @@ public class AtualizarDados {
 		System.out.print("Digite o código a ser alterado: ");
 		int codigo = scan.nextInt();
 		String select = "select codigo, nome from pessoas where codigo = ?";
-		String update = "update pessoas set nome = ? where codigo = ?";
+		String update = "update pessoas set nome = ? where codigo = ?";  // Comando para atualização dos dados na tabela "pessoas".
 		Connection conexao = FabricaConexao.getConexao();
 		PreparedStatement stmt = conexao.prepareStatement(select);
 		stmt.setInt(1, codigo);
