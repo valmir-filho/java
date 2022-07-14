@@ -15,8 +15,8 @@ public class FabricaConexao {  // Classe para reutilização da criação de con
 			final String usuario = prop.getProperty("banco.usuario");
 			final String senha = prop.getProperty("banco.senha");
 			return DriverManager.getConnection(url, usuario, senha);
-		} catch (SQLException | IOException e) {
-			throw new RuntimeException(e);
+		} catch (SQLException | IOException excecao) {
+			throw new RuntimeException(excecao);
 		}
 	}
 	private static Properties getProperties() throws IOException {
