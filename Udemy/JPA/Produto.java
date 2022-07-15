@@ -14,13 +14,12 @@ public class Produto {
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	@Column(name = "prod_nome", length = 200, nullable = false)
-	/* O annotation "@Column" está sendo utilizado para definição das características da coluna
-	"prod_nome" na tabela "produtos" dentro do BD "curso_java", inclusive com os seus atributos
-	(nesse caso: tamanho e a não aceitação de dados nulos). */
+	/* O annotation "@Column" está sendo utilizado para definição das características da coluna "prod_nome" na tabela "produtos" dentro do BD
+	"curso_java", inclusive com os seus atributos (nesse caso: tamanho e a não aceitação de dados nulos). */
 	private String nome;
 	@Column(name = "prod_preco", nullable = false, precision = 11, scale = 2)
-	/* O atributo "precision" (nesse caso) está definindo a precisão do número que será apresentado e
-	o atributo "scale", a quantidade de números decimais. */
+	/* O atributo "precision" (nesse caso) está definindo a precisão do número que será apresentado e o atributo "scale", a quantidade de números
+	decimais. */
 	private Double preco;
 	public Produto() {
 	}
