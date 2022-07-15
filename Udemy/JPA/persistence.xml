@@ -3,6 +3,7 @@
 	<persistence-unit name="exercicios-jpa">
 		<provider>org.hibernate.jpa.HibernatePersistenceProvider</provider>
 		<class>modelo.basico.Usuario</class>
+		<class>modelo.basico.Produto</class>
         <properties>
             <property name="javax.persistence.jdbc.driver" value="com.mysql.jdbc.Driver"/>
             <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost/curso_java"/>
