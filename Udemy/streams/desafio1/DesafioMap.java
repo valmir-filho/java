@@ -10,10 +10,7 @@ public class DesafioMap {
 		List<Integer> nums = Arrays.asList(1, 2, 3, 4, 5, 6, 7, 8, 9);
 		UnaryOperator<String> inverter = texto -> new StringBuilder(texto).reverse().toString();  // Função que inverte e String.
 		Function<String, Integer> binarioParaInt = s -> Integer.parseInt(s, 2);  // Função que converte uma String binária em um inteiro.
-		nums.stream()
-			.map(Integer::toBinaryString)  // Função que transforma um número inteiro para uma String binária.
-			.map(inverter)
-			.map(binarioParaInt)
-			.forEach(System.out::println);		
+		// .map(Integer::toBinaryString): Função que transforma um número inteiro para uma String binária.
+		nums.stream().map(Integer::toBinaryString).map(inverter).map(binarioParaInt).forEach(System.out::println);		
 	}
 }
