@@ -10,10 +10,7 @@ public class Map {
 		List<String> marcas = Arrays.asList("BMW ", "Audi ", "Honda ");
 		marcas.stream().map(m -> m.toUpperCase()).forEach(print);
 		System.out.println();
-		marcas.stream()  // Usando composição.
-			.map(Utilitarios.maiuscula)
-			.map(Utilitarios.primeiraLetra)
-			.map(Utilitarios.grito)
-			.forEach(print);
+		// Usando composição.
+		marcas.stream().map(Utilitarios.maiuscula).map(Utilitarios.primeiraLetra).map(Utilitarios.grito).forEach(print);
 	}
 }
