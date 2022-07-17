@@ -1,7 +1,6 @@
 package teste.basico;
 
 import java.util.List;
-
 import infra.ProdutoDao;
 import modelo.basico.Produto;
 

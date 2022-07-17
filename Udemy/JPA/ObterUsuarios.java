@@ -13,7 +13,7 @@ public class ObterUsuarios {
 		EntityManager em = emf.createEntityManager();
 		String jpql = "select u from Usuario u";
 		TypedQuery<Usuario> query = em.createQuery(jpql, Usuario.class);
-		query.setMaxResults(5);  // Método para especificação da quantidade de resultados (do BD "curso_java") fornecidos.
+		query.setMaxResults(5);  // Método para especificação da quantidade de resultados (do BD) fornecidos.
 		List<Usuario> usuarios = query.getResultList();
 		for(Usuario usuario: usuarios ) {
 			System.out.println("id: " + usuario.getId() + " - email: " + usuario.getEmail());
