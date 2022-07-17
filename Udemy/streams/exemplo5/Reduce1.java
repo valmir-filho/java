@@ -14,9 +14,6 @@ public class Reduce1 {
 		System.out.println(total2);
 		Integer total3 = nums.stream().reduce(100, soma);
 		System.out.println(total3);
-		nums.stream()
-			.filter(n -> n > 5)
-			.reduce(soma)
-			.ifPresent(System.out::println);
+		nums.stream().filter(n -> n > 5).reduce(soma).ifPresent(System.out::println);
 	}
 }
