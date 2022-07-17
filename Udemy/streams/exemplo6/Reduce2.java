@@ -16,10 +16,6 @@ public class Reduce2 {
 		Predicate<Aluno> aprovado = a -> a.nota >= 7;
 		Function<Aluno, Double> apenasNota = a -> a.nota;
 		BinaryOperator<Double> somatorio = (a, b) -> a + b;
-		alunos.stream()
-			.filter(aprovado)
-			.map(apenasNota)
-			.reduce(somatorio)
-			.ifPresent(System.out::println);
+		alunos.stream().filter(aprovado).map(apenasNota).reduce(somatorio).ifPresent(System.out::println);
 	}
 }
