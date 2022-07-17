@@ -16,9 +16,6 @@ public class Filter {
 		List<Aluno> alunos = Arrays.asList(a1, a2, a3, a4, a5, a6);
 		Predicate<Aluno> aprovado = a -> a.nota >= 7;
 		Function<Aluno, String> fraseAprovado = a -> "Parabéns " + a.nome + "! Você está aprovado(a)!";
-		alunos.stream()
-			.filter(aprovado)
-			.map(fraseAprovado)
-			.forEach(System.out::println);
+		alunos.stream().filter(aprovado).map(fraseAprovado).forEach(System.out::println);
 	}
 }
