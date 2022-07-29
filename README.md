@@ -1,4 +1,4 @@
-Repositório de exercícios da linguagem de programação Java.
+Repositório de exercícios Java.
 
 Conteúdos:  
 
