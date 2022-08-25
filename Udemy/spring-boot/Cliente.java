@@ -1,4 +1,4 @@
-package exercicios.spring.boot.models;
+package exercicios.spring.boot.model;
 
 public class Cliente {
 	private int id;
