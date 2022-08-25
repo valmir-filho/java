@@ -1,14 +1,21 @@
 package exercicios.spring.boot.model.entities;
 
-public class Cliente {
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+
+@Entity
+public class Produto {
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private int id;
 	private String nome;
-	private String cpf;
-	public Cliente(int id, String nome, String cpf) {
+	public Produto() {
+	}
+	public Produto(String nome) {
 		super();
-		this.id = id;
 		this.nome = nome;
-		this.cpf = cpf;
 	}
 	public int getId() {
 		return id;
@@ -22,10 +29,4 @@ public class Cliente {
 	public void setNome(String nome) {
 		this.nome = nome;
 	}
-	public String getCpf() {
-		return cpf;
-	}
-	public void setCpf(String cpf) {
-		this.cpf = cpf;
-	}	
 }
