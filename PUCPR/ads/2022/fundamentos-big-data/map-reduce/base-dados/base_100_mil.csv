@@ -1,0 +1,762 @@
+country_or_area;year;comm_code;commodity;flow;trade_usd;weight_kg;quantity_name;quantity;category
+Afghanistan;2016;010410;Sheep, live;Export;6088;2339;Number of items;51;01_live_animals
+Afghanistan;2016;010420;Goats, live;Export;3958;984;Number of items;53;01_live_animals
+Afghanistan;2008;010210;Bovine animals, live pure-bred breeding;Import;1026804;272;Number of items;3769;01_live_animals
+Albania;2016;010290;Bovine animals, live, except pure-bred breeding;Import;2414533;1114023;Number of items;6853;01_live_animals
+Albania;2016;010392;Swine, live except pure-bred breeding > 50 kg;Import;14265937;9484953;Number of items;96040;01_live_animals
+Albania;2016;010511;Fowls, live domestic < 185 grams;Import;2671732;254652;Number of items;5629138;01_live_animals
+Albania;2016;010511;Fowls, live domestic < 185 grams;Export;87581;5320;Number of items;115180;01_live_animals
+Albania;2016;010519;Poultry, live except domestic fowls, < 185 grams;Import;26485;2908;Number of items;64000;01_live_animals
+Albania;2016;010591;Fowls, live domestic > 185 grams;Import;2421513;1926850;Number of items;1006990;01_live_animals
+Albania;2016;010599;Poultry, live except domestic fowls, > 185 grams;Import;251318;211177;Number of items;205124;01_live_animals
+Albania;2016;010600;Animals, live, except farm animals;Export;584025;59521;Number of items;59521;01_live_animals
+Albania;2015;010290;Bovine animals, live, except pure-bred breeding;Import;7264642;3519352;Number of items;18641;01_live_animals
+Albania;2015;010391;Swine, live except pure-bred breeding < 50 kg;Import;45843;29930;Number of items;795;01_live_animals
+Albania;2015;010392;Swine, live except pure-bred breeding > 50 kg;Import;14031292;9439974;Number of items;93222;01_live_animals
+Albania;2015;010511;Fowls, live domestic < 185 grams;Import;2357680;264599;Number of items;4995885;01_live_animals
+Albania;2015;010519;Poultry, live except domestic fowls, < 185 grams;Import;32327;3843;Number of items;80880;01_live_animals
+Albania;2015;010591;Fowls, live domestic > 185 grams;Import;2453360;2133310;Number of items;1169944;01_live_animals
+Albania;2015;010599;Poultry, live except domestic fowls, > 185 grams;Import;300813;258566;Number of items;48170912;01_live_animals
+Albania;2015;010600;Animals, live, except farm animals;Export;636184;80774;Number of items;80694;01_live_animals
+Albania;2014;010290;Bovine animals, live, except pure-bred breeding;Import;8158583;4080294;Number of items;18688;01_live_animals
+Albania;2014;010392;Swine, live except pure-bred breeding > 50 kg;Import;13483939;8113086;Number of items;83900;01_live_animals
+Albania;2014;010410;Sheep, live;Import;21633;8125;Number of items;257;01_live_animals
+Albania;2014;010511;Fowls, live domestic < 185 grams;Import;2618381;209999;Number of items;4641445;01_live_animals
+Albania;2014;010519;Poultry, live except domestic fowls, < 185 grams;Import;31586;3511;Number of items;64700;01_live_animals
+Albania;2014;010591;Fowls, live domestic > 185 grams;Import;3722428;2715750;Number of items;1531017;01_live_animals
+Albania;2014;010599;Poultry, live except domestic fowls, > 185 grams;Import;306678;217640;Number of items;245750;01_live_animals
+Albania;2014;010600;Animals, live, except farm animals;Import;17544;4948;No Quantity;;01_live_animals
+Albania;2013;010119;Horses, live except pure-bred breeding;Import;3598;1500;Number of items;4;01_live_animals
+Albania;2013;010120;Asses, mules and hinnies, live;Import;6760;2250;Number of items;5;01_live_animals
+Albania;2013;010210;Bovine animals, live pure-bred breeding;Import;153667;62050;Number of items;161;01_live_animals
+Albania;2013;010290;Bovine animals, live, except pure-bred breeding;Import;9129721;4497831;Number of items;27104;01_live_animals
+Albania;2013;010391;Swine, live except pure-bred breeding < 50 kg;Import;320264;139131;Number of items;3338;01_live_animals
+Albania;2013;010392;Swine, live except pure-bred breeding > 50 kg;Import;12264218;7315786;Number of items;81859;01_live_animals
+Albania;2013;010410;Sheep, live;Import;188979;72560;Number of items;1740;01_live_animals
+Albania;2013;010420;Goats, live;Import;249889;35655;Number of items;1320;01_live_animals
+Albania;2013;010511;Fowls, live domestic < 185 grams;Import;2780932;229628;Number of items;5033354;01_live_animals
+Albania;2013;010519;Poultry, live except domestic fowls, < 185 grams;Import;35206;2945;Number of items;50480;01_live_animals
+Albania;2013;010591;Fowls, live domestic > 185 grams;Import;3042812;2379634;Number of items;1409156;01_live_animals
+Albania;2013;010599;Poultry, live except domestic fowls, > 185 grams;Import;219084;155070;Number of items;207200;01_live_animals
+Albania;2013;010600;Animals, live, except farm animals;Import;816312;108525;No Quantity;;01_live_animals
+Albania;2013;010600;Animals, live, except farm animals;Export;846588;99329;No Quantity;;01_live_animals
+Albania;2012;010210;Bovine animals, live pure-bred breeding;Import;674257;221566;Number of items;614;01_live_animals
+Albania;2012;010290;Bovine animals, live, except pure-bred breeding;Import;10979014;5556474;Number of items;29030;01_live_animals
+Albania;2012;010290;Bovine animals, live, except pure-bred breeding;Export;3390;2270;Number of items;22;01_live_animals
+Albania;2012;010391;Swine, live except pure-bred breeding < 50 kg;Import;254279;135936;Number of items;2680;01_live_animals
+Albania;2012;010392;Swine, live except pure-bred breeding > 50 kg;Import;11492587;7066783;Number of items;78853;01_live_animals
+Albania;2012;010410;Sheep, live;Import;147367;39310;Number of items;1118;01_live_animals
+Albania;2012;010420;Goats, live;Import;118975;35975;Number of items;1318;01_live_animals
+Albania;2012;010511;Fowls, live domestic < 185 grams;Import;2776389;280065;Number of items;5679462;01_live_animals
+Albania;2012;010511;Fowls, live domestic < 185 grams;Export;2480;360;Number of items;6000;01_live_animals
+Albania;2012;010519;Poultry, live except domestic fowls, < 185 grams;Import;73318;16211;Number of items;101340;01_live_animals
+Albania;2012;010591;Fowls, live domestic > 185 grams;Import;1649995;2015450;Number of items;1176163;01_live_animals
+Albania;2012;010599;Poultry, live except domestic fowls, > 185 grams;Import;166226;181960;Number of items;228390;01_live_animals
+Albania;2012;010600;Animals, live, except farm animals;Import;1401366;208478;No Quantity;;01_live_animals
+Albania;2012;010600;Animals, live, except farm animals;Export;895347;119590;No Quantity;;01_live_animals
+Albania;2011;010119;Horses, live except pure-bred breeding;Import;7350;2382;Number of items;9;01_live_animals
+Albania;2011;010210;Bovine animals, live pure-bred breeding;Import;802225;253186;Number of items;482;01_live_animals
+Albania;2011;010290;Bovine animals, live, except pure-bred breeding;Import;12105672;5707708;Number of items;32143;01_live_animals
+Albania;2011;010310;Swine, live pure-bred breeding;Import;65906;36636;Number of items;360;01_live_animals
+Albania;2011;010391;Swine, live except pure-bred breeding < 50 kg;Import;222614;125434;Number of items;1970;01_live_animals
+Albania;2011;010392;Swine, live except pure-bred breeding > 50 kg;Import;11838110;6800863;Number of items;79070;01_live_animals
+Albania;2011;010410;Sheep, live;Import;444980;117555;Number of items;2246;01_live_animals
+Albania;2011;010420;Goats, live;Import;145423;40876;Number of items;1156;01_live_animals
+Albania;2011;010511;Fowls, live domestic < 185 grams;Import;2818547;325878;Number of items;5853248;01_live_animals
+Albania;2011;010519;Poultry, live except domestic fowls, < 185 grams;Import;95883;41460;Number of items;94100;01_live_animals
+Albania;2011;010591;Fowls, live domestic > 185 grams;Import;1601263;1798951;Number of items;1047368;01_live_animals
+Albania;2011;010599;Poultry, live except domestic fowls, > 185 grams;Import;144106;210686;Number of items;184130;01_live_animals
+Albania;2011;010600;Animals, live, except farm animals;Export;997424;137017;No Quantity;;01_live_animals
+Albania;2011;010600;Animals, live, except farm animals;Import;1263526;198740;No Quantity;;01_live_animals
+Albania;2010;010119;Horses, live except pure-bred breeding;Import;3579;1119;Number of items;5;01_live_animals
+Albania;2010;010210;Bovine animals, live pure-bred breeding;Import;628861;197482;Number of items;368;01_live_animals
+Albania;2010;010290;Bovine animals, live, except pure-bred breeding;Import;17658038;8538249;Number of items;49478;01_live_animals
+Albania;2010;010310;Swine, live pure-bred breeding;Import;90783;55980;Number of items;552;01_live_animals
+Albania;2010;010391;Swine, live except pure-bred breeding < 50 kg;Import;199919;123788;Number of items;2090;01_live_animals
+Albania;2010;010392;Swine, live except pure-bred breeding > 50 kg;Import;9414329;5807954;Number of items;69739;01_live_animals
+Albania;2010;010410;Sheep, live;Import;141413;47010;Number of items;24355;01_live_animals
+Albania;2010;010420;Goats, live;Import;57083;23405;Number of items;595;01_live_animals
+Albania;2010;010511;Fowls, live domestic < 185 grams;Import;2987471;533590;Number of items;6248176;01_live_animals
+Albania;2010;010519;Poultry, live except domestic fowls, < 185 grams;Import;170344;13095;Number of items;138382;01_live_animals
+Albania;2010;010591;Fowls, live domestic > 185 grams;Import;2292001;2751701;Number of items;1489754;01_live_animals
+Albania;2010;010599;Poultry, live except domestic fowls, > 185 grams;Import;156336;210737;Number of items;191013;01_live_animals
+Albania;2010;010600;Animals, live, except farm animals;Export;609694;94520;No Quantity;;01_live_animals
+Albania;2010;010600;Animals, live, except farm animals;Import;778063;145950;No Quantity;;01_live_animals
+Albania;2009;010119;Horses, live except pure-bred breeding;Import;24270;10510;Number of items;28;01_live_animals
+Albania;2009;010210;Bovine animals, live pure-bred breeding;Import;591836;182392;Number of items;334;01_live_animals
+Albania;2009;010290;Bovine animals, live, except pure-bred breeding;Import;26028954;12145286;Number of items;69055;01_live_animals
+Albania;2009;010391;Swine, live except pure-bred breeding < 50 kg;Import;390877;223719;Number of items;3100;01_live_animals
+Albania;2009;010392;Swine, live except pure-bred breeding > 50 kg;Import;7571008;4367254;Number of items;131882;01_live_animals
+Albania;2009;010410;Sheep, live;Import;85318;33664;Number of items;602;01_live_animals
+Albania;2009;010420;Goats, live;Import;13309;5250;Number of items;175;01_live_animals
+Albania;2009;010511;Fowls, live domestic < 185 grams;Import;2964868;351694;Number of items;6359495;01_live_animals
+Albania;2009;010519;Poultry, live except domestic fowls, < 185 grams;Import;99146;5250;Number of items;67347;01_live_animals
+Albania;2009;010591;Fowls, live domestic > 185 grams;Import;964777;1312414;Number of items;824648;01_live_animals
+Albania;2009;010599;Poultry, live except domestic fowls, > 185 grams;Import;150676;127684;Number of items;125400;01_live_animals
+Albania;2009;010600;Animals, live, except farm animals;Import;636568;87951;No Quantity;;01_live_animals
+Albania;2009;010600;Animals, live, except farm animals;Export;520743;54176;No Quantity;;01_live_animals
+Albania;2008;010119;Horses, live except pure-bred breeding;Import;7997;2800;Number of items;8;01_live_animals
+Albania;2008;010210;Bovine animals, live pure-bred breeding;Import;462721;97420;Number of items;227;01_live_animals
+Albania;2008;010290;Bovine animals, live, except pure-bred breeding;Import;29130831;12733299;Number of items;485180;01_live_animals
+Albania;2008;010310;Swine, live pure-bred breeding;Import;565499;278505;Number of items;1028;01_live_animals
+Albania;2008;010391;Swine, live except pure-bred breeding < 50 kg;Import;87175;46610;Number of items;800;01_live_animals
+Albania;2008;010392;Swine, live except pure-bred breeding > 50 kg;Import;7372797;3953924;Number of items;42548;01_live_animals
+Albania;2008;010511;Fowls, live domestic < 185 grams;Import;2395577;256206;Number of items;4927432;01_live_animals
+Albania;2008;010519;Poultry, live except domestic fowls, < 185 grams;Import;151377;14449;Number of items;125780;01_live_animals
+Albania;2008;010591;Fowls, live domestic > 185 grams;Import;419684;484490;Number of items;322000;01_live_animals
+Albania;2008;010599;Poultry, live except domestic fowls, > 185 grams;Import;51562;72810;Number of items;39230;01_live_animals
+Albania;2008;010600;Animals, live, except farm animals;Import;859291;112974;Number of items;109907;01_live_animals
+Albania;2008;010600;Animals, live, except farm animals;Export;767554;82215;Number of items;78592;01_live_animals
+Albania;2008;010600;Animals, live, except farm animals;Re-Export;603716;66820;Number of items;63999;01_live_animals
+Albania;2007;010111;Horses, live pure-bred breeding;Import;97402;;No Quantity;;01_live_animals
+Albania;2007;010119;Horses, live except pure-bred breeding;Import;8753;;No Quantity;;01_live_animals
+Albania;2007;010210;Bovine animals, live pure-bred breeding;Import;507218;142262;Number of items;292;01_live_animals
+Albania;2007;010290;Bovine animals, live, except pure-bred breeding;Import;24843875;10169863;Number of items;36544;01_live_animals
+Albania;2007;010310;Swine, live pure-bred breeding;Import;277565;36285;Number of items;502;01_live_animals
+Albania;2007;010391;Swine, live except pure-bred breeding < 50 kg;Import;103493;;No Quantity;;01_live_animals
+Albania;2007;010392;Swine, live except pure-bred breeding > 50 kg;Import;3929743;;Number of items;23739;01_live_animals
+Albania;2007;010420;Goats, live;Export;2635;935;No Quantity;;01_live_animals
+Albania;2007;010511;Fowls, live domestic < 185 grams;Import;1736292;32415;No Quantity;;01_live_animals
+Albania;2007;010519;Poultry, live except domestic fowls, < 185 grams;Import;82065;;No Quantity;;01_live_animals
+Albania;2007;010591;Fowls, live domestic > 185 grams;Import;496567;;Number of items;231692;01_live_animals
+Albania;2007;010599;Poultry, live except domestic fowls, > 185 grams;Import;27290;;Number of items;4151;01_live_animals
+Albania;2007;010600;Animals, live, except farm animals;Import;543407;;No Quantity;;01_live_animals
+Albania;2007;010600;Animals, live, except farm animals;Export;818676;;No Quantity;;01_live_animals
+Albania;2006;010119;Horses, live except pure-bred breeding;Import;9136;1530;Number of items;5;01_live_animals
+Albania;2006;010210;Bovine animals, live pure-bred breeding;Import;1075215;596367;Number of items;1062;01_live_animals
+Albania;2006;010290;Bovine animals, live, except pure-bred breeding;Import;17335204;10576379;Number of items;331900;01_live_animals
+Albania;2006;010391;Swine, live except pure-bred breeding < 50 kg;Import;171568;110888;Number of items;3175;01_live_animals
+Albania;2006;010392;Swine, live except pure-bred breeding > 50 kg;Import;3603909;2319085;Number of items;74300;01_live_animals
+Albania;2006;010410;Sheep, live;Import;2484;2500;Number of items;76;01_live_animals
+Albania;2006;010420;Goats, live;Import;3755;1500;Number of items;49;01_live_animals
+Albania;2006;010511;Fowls, live domestic < 185 grams;Import;937792;130418;Number of items;2330395;01_live_animals
+Albania;2006;010519;Poultry, live except domestic fowls, < 185 grams;Import;18138;2029;Number of items;25710;01_live_animals
+Albania;2006;010591;Fowls, live domestic > 185 grams;Import;118578;201868;Number of items;149514;01_live_animals
+Albania;2006;010599;Poultry, live except domestic fowls, > 185 grams;Import;12472;14300;Number of items;17701;01_live_animals
+Albania;2006;010600;Animals, live, except farm animals;Import;567152;119855;Number of items;30319;01_live_animals
+Albania;2006;010600;Animals, live, except farm animals;Export;1063300;224278;Number of items;81337;01_live_animals
+Albania;2006;010600;Animals, live, except farm animals;Re-Export;476744;109332;Number of items;28748;01_live_animals
+Albania;2006;010600;Animals, live, except farm animals;Re-Import;546949;117200;Number of items;29400;01_live_animals
+Albania;2005;010111;Horses, live pure-bred breeding;Import;18273;15400;Number of items;13506;01_live_animals
+Albania;2005;010119;Horses, live except pure-bred breeding;Import;2834;400;Number of items;4;01_live_animals
+Albania;2005;010210;Bovine animals, live pure-bred breeding;Import;1187125;671107;Number of items;1236;01_live_animals
+Albania;2005;010290;Bovine animals, live, except pure-bred breeding;Import;6900678;4320749;Number of items;84262;01_live_animals
+Albania;2005;010310;Swine, live pure-bred breeding;Import;59351;42510;Number of items;797;01_live_animals
+Albania;2005;010391;Swine, live except pure-bred breeding < 50 kg;Import;89398;83995;Number of items;1779;01_live_animals
+Albania;2005;010392;Swine, live except pure-bred breeding > 50 kg;Import;1398170;1770931;Number of items;45445;01_live_animals
+Albania;2005;010410;Sheep, live;Import;9074;10680;Number of items;348;01_live_animals
+Albania;2005;010511;Fowls, live domestic < 185 grams;Import;1272712;187566;Number of items;2804778;01_live_animals
+Albania;2005;010511;Fowls, live domestic < 185 grams;Export;35714;2477;Number of items;64325;01_live_animals
+Albania;2005;010519;Poultry, live except domestic fowls, < 185 grams;Import;49608;5568;Number of items;30834;01_live_animals
+Albania;2005;010591;Fowls, live domestic > 185 grams;Import;110586;182879;Number of items;102187;01_live_animals
+Albania;2005;010599;Poultry, live except domestic fowls, > 185 grams;Import;28726;21285;Number of items;10936;01_live_animals
+Albania;2005;010600;Animals, live, except farm animals;Import;41404;21292;Number of items;4521;01_live_animals
+Albania;2005;010600;Animals, live, except farm animals;Export;918970;140870;Number of items;137102;01_live_animals
+Albania;2005;010600;Animals, live, except farm animals;Re-Export;81661;120;Number of items;2;01_live_animals
+Albania;2004;010111;Horses, live pure-bred breeding;Import;4089;3366;Number of items;1202;01_live_animals
+Albania;2004;010119;Horses, live except pure-bred breeding;Import;1142;520;Number of items;4;01_live_animals
+Albania;2004;010210;Bovine animals, live pure-bred breeding;Import;1368451;706591;Number of items;1717;01_live_animals
+Albania;2004;010290;Bovine animals, live, except pure-bred breeding;Import;2142425;1521541;Number of items;38843;01_live_animals
+Albania;2004;010391;Swine, live except pure-bred breeding < 50 kg;Import;108210;119520;Number of items;2447;01_live_animals
+Albania;2004;010392;Swine, live except pure-bred breeding > 50 kg;Import;407522;556714;Number of items;7084;01_live_animals
+Albania;2004;010410;Sheep, live;Import;2600;1410;Number of items;35;01_live_animals
+Albania;2004;010420;Goats, live;Import;5376;4800;Number of items;160;01_live_animals
+Albania;2004;010511;Fowls, live domestic < 185 grams;Import;759378;110147;Number of items;2466766;01_live_animals
+Albania;2004;010519;Poultry, live except domestic fowls, < 185 grams;Import;21363;2339;Number of items;15942;01_live_animals
+Albania;2004;010591;Fowls, live domestic > 185 grams;Import;183187;272140;Number of items;183034;01_live_animals
+Albania;2004;010599;Poultry, live except domestic fowls, > 185 grams;Import;591;410;Number of items;280;01_live_animals
+Albania;2004;010600;Animals, live, except farm animals;Import;2163;715;Number of items;250;01_live_animals
+Albania;2004;010600;Animals, live, except farm animals;Export;769695;107579;Number of items;80306;01_live_animals
+Albania;2003;010111;Horses, live pure-bred breeding;Import;1851;116;Number of items;139;01_live_animals
+Albania;2003;010111;Horses, live pure-bred breeding;Export;3346;125;Number of items;1;01_live_animals
+Albania;2003;010210;Bovine animals, live pure-bred breeding;Import;1296679;467655;Number of items;22276;01_live_animals
+Albania;2003;010290;Bovine animals, live, except pure-bred breeding;Import;1494653;729440;Number of items;39987;01_live_animals
+Albania;2003;010310;Swine, live pure-bred breeding;Import;28293;3920;Number of items;180;01_live_animals
+Albania;2003;010391;Swine, live except pure-bred breeding < 50 kg;Import;38902;18881;Number of items;1156;01_live_animals
+Albania;2003;010392;Swine, live except pure-bred breeding > 50 kg;Import;26605;21093;Number of items;2182;01_live_animals
+Albania;2003;010410;Sheep, live;Import;4095;1909;Number of items;81;01_live_animals
+Albania;2003;010511;Fowls, live domestic < 185 grams;Import;849188;16714;Number of items;2666020;01_live_animals
+Albania;2003;010519;Poultry, live except domestic fowls, < 185 grams;Import;14218;468;Number of items;22100;01_live_animals
+Albania;2003;010591;Fowls, live domestic > 185 grams;Import;171041;33325;Number of items;170486;01_live_animals
+Albania;2003;010599;Poultry, live except domestic fowls, > 185 grams;Import;2243;;Number of items;1750;01_live_animals
+Albania;2003;010600;Animals, live, except farm animals;Import;75009;1792;Number of items;300515;01_live_animals
+Albania;2003;010600;Animals, live, except farm animals;Export;31957;1209;Number of items;7670;01_live_animals
+Albania;2002;010210;Bovine animals, live pure-bred breeding;Import;1006256;433340;Number of items;5461;01_live_animals
+Albania;2002;010290;Bovine animals, live, except pure-bred breeding;Import;185395;97502;Number of items;12651;01_live_animals
+Albania;2002;010290;Bovine animals, live, except pure-bred breeding;Export;2358;1537;Number of items;6573;01_live_animals
+Albania;2002;010391;Swine, live except pure-bred breeding < 50 kg;Import;5503;2770;Number of items;100;01_live_animals
+Albania;2002;010392;Swine, live except pure-bred breeding > 50 kg;Import;188280;162747;Number of items;13463;01_live_animals
+Albania;2002;010410;Sheep, live;Import;4555;2258;Number of items;86;01_live_animals
+Albania;2002;010420;Goats, live;Import;21696;8785;Number of items;200;01_live_animals
+Albania;2002;010511;Fowls, live domestic < 185 grams;Import;519952;11488;Number of items;1699224;01_live_animals
+Albania;2002;010591;Fowls, live domestic > 185 grams;Import;1020836;;Number of items;1120301;01_live_animals
+Albania;2002;010591;Fowls, live domestic > 185 grams;Export;2072;1294;Number of items;5500;01_live_animals
+Albania;2002;010599;Poultry, live except domestic fowls, > 185 grams;Import;3057;;Number of items;1700;01_live_animals
+Albania;2002;010600;Animals, live, except farm animals;Import;156706;4178;Number of items;37205;01_live_animals
+Albania;2002;010600;Animals, live, except farm animals;Export;334524;12745;Number of items;47401;01_live_animals
+Albania;2001;010111;Horses, live pure-bred breeding;Import;108;7;Number of items;2;01_live_animals
+Albania;2001;010210;Bovine animals, live pure-bred breeding;Import;54215;26794;Number of items;287;01_live_animals
+Albania;2001;010210;Bovine animals, live pure-bred breeding;Export;17520;;Number of items;27;01_live_animals
+Albania;2001;010310;Swine, live pure-bred breeding;Import;847;161;Number of items;3;01_live_animals
+Albania;2001;010410;Sheep, live;Export;9398;5659;Number of items;130;01_live_animals
+Albania;2001;010420;Goats, live;Import;13913;5485;Number of items;60;01_live_animals
+Albania;2001;010511;Fowls, live domestic < 185 grams;Import;432257;9732;Number of items;1269703;01_live_animals
+Albania;2001;010511;Fowls, live domestic < 185 grams;Export;2918;67;Number of items;6720;01_live_animals
+Albania;2001;010519;Poultry, live except domestic fowls, < 185 grams;Import;1780;68;Number of items;900;01_live_animals
+Albania;2001;010591;Fowls, live domestic > 185 grams;Import;1001581;;Number of items;1313550;01_live_animals
+Albania;2001;010591;Fowls, live domestic > 185 grams;Export;6347;4265;Number of items;15365;01_live_animals
+Albania;2001;010600;Animals, live, except farm animals;Import;224565;6610;Number of items;66606;01_live_animals
+Albania;2001;010600;Animals, live, except farm animals;Export;120326;4658;Number of items;31036;01_live_animals
+Albania;2000;010111;Horses, live pure-bred breeding;Import;970;67;Number of items;4;01_live_animals
+Albania;2000;010119;Horses, live except pure-bred breeding;Import;707;102;Number of items;3;01_live_animals
+Albania;2000;010210;Bovine animals, live pure-bred breeding;Import;106860;51518;Number of items;270;01_live_animals
+Albania;2000;010290;Bovine animals, live, except pure-bred breeding;Import;66219;41099;Number of items;840;01_live_animals
+Albania;2000;010392;Swine, live except pure-bred breeding > 50 kg;Import;2805;2522;Number of items;20;01_live_animals
+Albania;2000;010511;Fowls, live domestic < 185 grams;Import;345324;7680;Number of items;1039812;01_live_animals
+Albania;2000;010511;Fowls, live domestic < 185 grams;Export;175;4;Number of items;300;01_live_animals
+Albania;2000;010591;Fowls, live domestic > 185 grams;Import;696108;393941;Number of items;960219;01_live_animals
+Albania;2000;010591;Fowls, live domestic > 185 grams;Export;311;202;Number of items;720;01_live_animals
+Albania;2000;010600;Animals, live, except farm animals;Import;677;15;Number of items;6;01_live_animals
+Albania;2000;010600;Animals, live, except farm animals;Export;30708;1201;Number of items;39140;01_live_animals
+Albania;1999;010111;Horses, live pure-bred breeding;Import;3340;0;Number of items;608;01_live_animals
+Albania;1999;010210;Bovine animals, live pure-bred breeding;Import;167982;0;Number of items;184;01_live_animals
+Albania;1999;010391;Swine, live except pure-bred breeding < 50 kg;Import;128;0;Number of items;12;01_live_animals
+Albania;1999;010392;Swine, live except pure-bred breeding > 50 kg;Import;2674;0;Number of items;40;01_live_animals
+Albania;1999;010410;Sheep, live;Import;53587;0;Number of items;155;01_live_animals
+Albania;1999;010420;Goats, live;Import;13006;0;Number of items;45;01_live_animals
+Albania;1999;010511;Fowls, live domestic < 185 grams;Import;379475;0;Number of items;804723;01_live_animals
+Albania;1999;010519;Poultry, live except domestic fowls, < 185 grams;Import;52169;0;Number of items;24040;01_live_animals
+Albania;1999;010591;Fowls, live domestic > 185 grams;Import;570110;0;Number of items;1098920;01_live_animals
+Albania;1999;010599;Poultry, live except domestic fowls, > 185 grams;Import;51206;0;Number of items;22640;01_live_animals
+Albania;1999;010600;Animals, live, except farm animals;Export;13924;0;Number of items;10000;01_live_animals
+Albania;1998;010111;Horses, live pure-bred breeding;Import;19723;0;Number of items;46720;01_live_animals
+Albania;1998;010120;Asses, mules and hinnies, live;Export;2708;0;Number of items;95;01_live_animals
+Albania;1998;010210;Bovine animals, live pure-bred breeding;Import;43505;0;Number of items;67;01_live_animals
+Albania;1998;010290;Bovine animals, live, except pure-bred breeding;Import;8841;0;Number of items;625;01_live_animals
+Albania;1998;010310;Swine, live pure-bred breeding;Import;3400;0;Number of items;360;01_live_animals
+Albania;1998;010391;Swine, live except pure-bred breeding < 50 kg;Import;6812;0;Number of items;245;01_live_animals
+Albania;1998;010392;Swine, live except pure-bred breeding > 50 kg;Import;29853;0;Number of items;6188;01_live_animals
+Albania;1998;010410;Sheep, live;Import;3124;0;Number of items;20;01_live_animals
+Albania;1998;010511;Fowls, live domestic < 185 grams;Import;424415;0;Number of items;472806;01_live_animals
+Albania;1998;010519;Poultry, live except domestic fowls, < 185 grams;Import;50642;0;Number of items;32808;01_live_animals
+Albania;1998;010591;Fowls, live domestic > 185 grams;Import;995860;0;Number of items;1271665;01_live_animals
+Albania;1998;010599;Poultry, live except domestic fowls, > 185 grams;Import;63595;0;Number of items;54764;01_live_animals
+Albania;1997;010111;Horses, live pure-bred breeding;Export;14538;0;Number of items;12000;01_live_animals
+Albania;1997;010210;Bovine animals, live pure-bred breeding;Import;8359;0;Number of items;3;01_live_animals
+Albania;1997;010511;Fowls, live domestic < 185 grams;Import;446192;0;Number of items;422122;01_live_animals
+Albania;1997;010519;Poultry, live except domestic fowls, < 185 grams;Import;104880;0;Number of items;248530;01_live_animals
+Albania;1997;010519;Poultry, live except domestic fowls, < 185 grams;Export;10612;0;Number of items;35000;01_live_animals
+Albania;1997;010591;Fowls, live domestic > 185 grams;Import;113191;0;Number of items;102122;01_live_animals
+Albania;1997;010600;Animals, live, except farm animals;Import;632;0;Number of items;42;01_live_animals
+Albania;1997;010600;Animals, live, except farm animals;Export;34767;0;Number of items;6090;01_live_animals
+Albania;1996;010111;Horses, live pure-bred breeding;Import;31109;0;Number of items;47500;01_live_animals
+Albania;1996;010120;Asses, mules and hinnies, live;Export;6290;0;Number of items;341;01_live_animals
+Albania;1996;010210;Bovine animals, live pure-bred breeding;Import;306316;0;Number of items;231;01_live_animals
+Albania;1996;010391;Swine, live except pure-bred breeding < 50 kg;Import;5004;0;Number of items;82;01_live_animals
+Albania;1996;010511;Fowls, live domestic < 185 grams;Import;717012;0;Number of items;822769;01_live_animals
+Albania;1996;010519;Poultry, live except domestic fowls, < 185 grams;Import;4537;0;Number of items;6720;01_live_animals
+Albania;1996;010591;Fowls, live domestic > 185 grams;Import;367108;0;Number of items;352926;01_live_animals
+Albania;1996;010599;Poultry, live except domestic fowls, > 185 grams;Import;22788;0;Number of items;6804;01_live_animals
+Albania;1996;010600;Animals, live, except farm animals;Import;170;0;Number of items;100;01_live_animals
+Albania;1996;010600;Animals, live, except farm animals;Export;34766;0;Number of items;26157;01_live_animals
+Algeria;2016;010111;Horses, live pure-bred breeding;Import;978230;84260;No Quantity;;01_live_animals
+Algeria;2016;010111;Horses, live pure-bred breeding;Export;126137;4800;No Quantity;;01_live_animals
+Algeria;2016;010119;Horses, live except pure-bred breeding;Import;96656;19430;Number of items;6;01_live_animals
+Algeria;2016;010290;Bovine animals, live, except pure-bred breeding;Import;85118623;25486676;Number of items;92927;01_live_animals
+Algeria;2016;010511;Fowls, live domestic < 185 grams;Import;23609477;257096;No Quantity;;01_live_animals
+Algeria;2016;010519;Poultry, live except domestic fowls, < 185 grams;Export;263;40;No Quantity;;01_live_animals
+Algeria;2016;010519;Poultry, live except domestic fowls, < 185 grams;Import;3792216;42470;Number of items;1803105;01_live_animals
+Algeria;2016;010600;Animals, live, except farm animals;Import;112005;5886;No Quantity;;01_live_animals
+Algeria;2015;010111;Horses, live pure-bred breeding;Import;937987;91958;Number of items;222;01_live_animals
+Algeria;2015;010111;Horses, live pure-bred breeding;Export;86724;2400;Number of items;6;01_live_animals
+Algeria;2015;010119;Horses, live except pure-bred breeding;Import;77474;13072;Number of items;32;01_live_animals
+Algeria;2015;010210;Bovine animals, live pure-bred breeding;Import;157629;10112;Number of items;18;01_live_animals
+Algeria;2015;010290;Bovine animals, live, except pure-bred breeding;Import;78401044;22737487;Number of items;3651444;01_live_animals
+Algeria;2015;010410;Sheep, live;Import;106069;53160;Number of items;1517;01_live_animals
+Algeria;2015;010420;Goats, live;Import;374402;36760;Number of items;747;01_live_animals
+Algeria;2015;010511;Fowls, live domestic < 185 grams;Import;19807271;221547;Number of items;5255108;01_live_animals
+Algeria;2015;010519;Poultry, live except domestic fowls, < 185 grams;Import;5337508;101024;Number of items;1789998;01_live_animals
+Algeria;2015;010600;Animals, live, except farm animals;Import;122728;71658;Number of items;16566;01_live_animals
+Algeria;2014;010111;Horses, live pure-bred breeding;Export;20466;3100;Number of items;8;01_live_animals
+Algeria;2014;010111;Horses, live pure-bred breeding;Import;18088109;199600;Number of items;447;01_live_animals
+Algeria;2014;010119;Horses, live except pure-bred breeding;Import;36556;9200;Number of items;22;01_live_animals
+Algeria;2014;010290;Bovine animals, live, except pure-bred breeding;Import;130145662;29539806;Number of items;5697918;01_live_animals
+Algeria;2014;010511;Fowls, live domestic < 185 grams;Import;20161545;182108;Number of items;4315050;01_live_animals
+Algeria;2014;010519;Poultry, live except domestic fowls, < 185 grams;Import;6712198;114632;Number of items;1999408;01_live_animals
+Algeria;2014;010599;Poultry, live except domestic fowls, > 185 grams;Import;1310;30;Number of items;25;01_live_animals
+Algeria;2014;010600;Animals, live, except farm animals;Import;45888;3810;Number of items;1666;01_live_animals
+Algeria;2013;010111;Horses, live pure-bred breeding;Export;14163;300;Number of items;1;01_live_animals
+Algeria;2013;010111;Horses, live pure-bred breeding;Import;1320711;167836;Number of items;432;01_live_animals
+Algeria;2013;010119;Horses, live except pure-bred breeding;Import;64178;11564;Number of items;25;01_live_animals
+Algeria;2013;010290;Bovine animals, live, except pure-bred breeding;Import;155527340;35829756;Number of items;2310077;01_live_animals
+Algeria;2013;010420;Goats, live;Import;286631;26700;Number of items;586;01_live_animals
+Algeria;2013;010511;Fowls, live domestic < 185 grams;Import;22931978;233666;Number of items;5698754;01_live_animals
+Algeria;2013;010519;Poultry, live except domestic fowls, < 185 grams;Import;9246735;216678;Number of items;4001534;01_live_animals
+Algeria;2013;010600;Animals, live, except farm animals;Import;107218;3097;Number of items;1053;01_live_animals
+Algeria;2012;010111;Horses, live pure-bred breeding;Export;71776;500;Number of items;1;01_live_animals
+Algeria;2012;010111;Horses, live pure-bred breeding;Import;866706;72781;Number of items;154;01_live_animals
+Algeria;2012;010119;Horses, live except pure-bred breeding;Import;76928;15081;Number of items;38;01_live_animals
+Algeria;2012;010210;Bovine animals, live pure-bred breeding;Import;701799;127154;Number of items;225;01_live_animals
+Algeria;2012;010290;Bovine animals, live, except pure-bred breeding;Import;99630194;22679200;Number of items;942926;01_live_animals
+Algeria;2012;010410;Sheep, live;Export;81365;11000;Number of items;11000;01_live_animals
+Algeria;2012;010420;Goats, live;Import;98078;23500;Number of items;441;01_live_animals
+Algeria;2012;010511;Fowls, live domestic < 185 grams;Import;19825389;240226;Number of items;6104411;01_live_animals
+Algeria;2012;010519;Poultry, live except domestic fowls, < 185 grams;Import;12173949;304568;Number of items;5268738;01_live_animals
+Algeria;2012;010600;Animals, live, except farm animals;Import;53923;2135;Number of items;716;01_live_animals
+Algeria;2011;010111;Horses, live pure-bred breeding;Import;667423;39690;Number of items;81;01_live_animals
+Algeria;2011;010119;Horses, live except pure-bred breeding;Import;8271;2300;Number of items;5;01_live_animals
+Algeria;2011;010210;Bovine animals, live pure-bred breeding;Import;691511;128745;Number of items;349;01_live_animals
+Algeria;2011;010290;Bovine animals, live, except pure-bred breeding;Import;115274509;27030448;Number of items;112191;01_live_animals
+Algeria;2011;010511;Fowls, live domestic < 185 grams;Import;17098767;172257;Number of items;4269224;01_live_animals
+Algeria;2011;010519;Poultry, live except domestic fowls, < 185 grams;Import;10242860;273504;Number of items;4690597;01_live_animals
+Algeria;2011;010600;Animals, live, except farm animals;Import;81646;2573;Number of items;1066;01_live_animals
+Algeria;2010;010111;Horses, live pure-bred breeding;Import;190657;28941;Number of items;65;01_live_animals
+Algeria;2010;010119;Horses, live except pure-bred breeding;Import;9165;2245;Number of items;7;01_live_animals
+Algeria;2010;010210;Bovine animals, live pure-bred breeding;Import;80132;18002;Number of items;32;01_live_animals
+Algeria;2010;010290;Bovine animals, live, except pure-bred breeding;Import;77472714;19577786;Number of items;1725387;01_live_animals
+Algeria;2010;010410;Sheep, live;Export;834;100;Number of items;2;01_live_animals
+Algeria;2010;010420;Goats, live;Export;3024;140;Number of items;2;01_live_animals
+Algeria;2010;010511;Fowls, live domestic < 185 grams;Import;16854785;178377;Number of items;4317888;01_live_animals
+Algeria;2010;010519;Poultry, live except domestic fowls, < 185 grams;Import;7516690;262450;Number of items;4453326;01_live_animals
+Algeria;2010;010600;Animals, live, except farm animals;Import;78007;2112;Number of items;678;01_live_animals
+Algeria;2010;010600;Animals, live, except farm animals;Export;538;110;Number of items;1;01_live_animals
+Algeria;2009;010111;Horses, live pure-bred breeding;Export;2858;450;Number of items;1;01_live_animals
+Algeria;2009;010111;Horses, live pure-bred breeding;Import;216574;25313;Number of items;75;01_live_animals
+Algeria;2009;010119;Horses, live except pure-bred breeding;Import;6061;1360;Number of items;4;01_live_animals
+Algeria;2009;010210;Bovine animals, live pure-bred breeding;Import;981639;186742;Number of items;353000;01_live_animals
+Algeria;2009;010290;Bovine animals, live, except pure-bred breeding;Import;43673794;10864167;Number of items;2426432;01_live_animals
+Algeria;2009;010391;Swine, live except pure-bred breeding < 50 kg;Import;175;10;Number of items;2;01_live_animals
+Algeria;2009;010511;Fowls, live domestic < 185 grams;Import;15343332;170662;Number of items;4216977;01_live_animals
+Algeria;2009;010519;Poultry, live except domestic fowls, < 185 grams;Import;6826165;231387;Number of items;3898308;01_live_animals
+Algeria;2009;010591;Fowls, live domestic > 185 grams;Import;68710;102063;Number of items;56940;01_live_animals
+Algeria;2009;010600;Animals, live, except farm animals;Export;1995;845;Number of items;7680;01_live_animals
+Algeria;2009;010600;Animals, live, except farm animals;Import;71686;1135;Number of items;20;01_live_animals
+Algeria;2008;010111;Horses, live pure-bred breeding;Import;74605;12219;Number of items;102;01_live_animals
+Algeria;2008;010119;Horses, live except pure-bred breeding;Export;51621;4500;Number of items;9;01_live_animals
+Algeria;2008;010290;Bovine animals, live, except pure-bred breeding;Import;7635882;1884648;Number of items;766457;01_live_animals
+Algeria;2008;010511;Fowls, live domestic < 185 grams;Import;14944922;136497;Number of items;3350570;01_live_animals
+Algeria;2008;010519;Poultry, live except domestic fowls, < 185 grams;Import;4832652;159428;Number of items;3259155;01_live_animals
+Algeria;2008;010591;Fowls, live domestic > 185 grams;Import;56854;77616;Number of items;43120;01_live_animals
+Algeria;2008;010600;Animals, live, except farm animals;Export;1348;915;Number of items;1010;01_live_animals
+Algeria;2008;010600;Animals, live, except farm animals;Import;76667;3083;Number of items;8;01_live_animals
+Algeria;2007;010111;Horses, live pure-bred breeding;Import;106795;45280;No Quantity;;01_live_animals
+Algeria;2007;010210;Bovine animals, live pure-bred breeding;Import;90494;14191;Number of items;52;01_live_animals
+Algeria;2007;010290;Bovine animals, live, except pure-bred breeding;Import;4406798;1461393;Number of items;6482;01_live_animals
+Algeria;2007;010410;Sheep, live;Export;865;100;Number of items;14;01_live_animals
+Algeria;2007;010511;Fowls, live domestic < 185 grams;Import;13007524;156063;No Quantity;;01_live_animals
+Algeria;2007;010519;Poultry, live except domestic fowls, < 185 grams;Import;3735109;161423;No Quantity;;01_live_animals
+Algeria;2007;010591;Fowls, live domestic > 185 grams;Import;77894;113148;Number of items;34624;01_live_animals
+Algeria;2007;010600;Animals, live, except farm animals;Import;29552;90;No Quantity;;01_live_animals
+Algeria;2006;010119;Horses, live except pure-bred breeding;Export;44550;3000;Number of items;10;01_live_animals
+Algeria;2006;010290;Bovine animals, live, except pure-bred breeding;Import;19715193;7189019;Number of items;58817;01_live_animals
+Algeria;2006;010511;Fowls, live domestic < 185 grams;Import;25303961;133605;Number of items;3420355;01_live_animals
+Algeria;2006;010519;Poultry, live except domestic fowls, < 185 grams;Import;3144537;114138;Number of items;2004268;01_live_animals
+Algeria;2006;010591;Fowls, live domestic > 185 grams;Import;294367;306340;Number of items;171300;01_live_animals
+Algeria;2006;010600;Animals, live, except farm animals;Import;55714;2334;Number of items;22;01_live_animals
+Algeria;2005;010119;Horses, live except pure-bred breeding;Export;56423;5800;Number of items;12;01_live_animals
+Algeria;2005;010210;Bovine animals, live pure-bred breeding;Import;203205;61004;Number of items;106;01_live_animals
+Algeria;2005;010290;Bovine animals, live, except pure-bred breeding;Import;33988284;12339879;Number of items;996813;01_live_animals
+Algeria;2005;010420;Goats, live;Import;42567;450;Number of items;15;01_live_animals
+Algeria;2005;010511;Fowls, live domestic < 185 grams;Import;10103099;142205;Number of items;3406204;01_live_animals
+Algeria;2005;010519;Poultry, live except domestic fowls, < 185 grams;Import;6939632;228440;Number of items;4263908;01_live_animals
+Algeria;2005;010591;Fowls, live domestic > 185 grams;Import;51624;69800;Number of items;45000;01_live_animals
+Algeria;2005;010599;Poultry, live except domestic fowls, > 185 grams;Import;2470;120;Number of items;80;01_live_animals
+Algeria;2005;010600;Animals, live, except farm animals;Import;2554;198;Number of items;312;01_live_animals
+Algeria;2004;010111;Horses, live pure-bred breeding;Import;327402;43720;Number of items;69;01_live_animals
+Algeria;2004;010111;Horses, live pure-bred breeding;Export;1290;400;Number of items;1;01_live_animals
+Algeria;2004;010119;Horses, live except pure-bred breeding;Export;17461;1300;Number of items;4;01_live_animals
+Algeria;2004;010210;Bovine animals, live pure-bred breeding;Import;1075297;365161;Number of items;787;01_live_animals
+Algeria;2004;010290;Bovine animals, live, except pure-bred breeding;Import;67042656;25308330;Number of items;1508337;01_live_animals
+Algeria;2004;010420;Goats, live;Import;47577;570;Number of items;15;01_live_animals
+Algeria;2004;010511;Fowls, live domestic < 185 grams;Import;8672760;133903;Number of items;3150079;01_live_animals
+Algeria;2004;010519;Poultry, live except domestic fowls, < 185 grams;Import;5224350;191912;Number of items;3648751;01_live_animals
+Algeria;2004;010591;Fowls, live domestic > 185 grams;Import;134792;195462;Number of items;95282;01_live_animals
+Algeria;2004;010600;Animals, live, except farm animals;Import;10775;578;Number of items;580;01_live_animals
+Algeria;2003;010111;Horses, live pure-bred breeding;Import;767156;62399;No Quantity;;01_live_animals
+Algeria;2003;010210;Bovine animals, live pure-bred breeding;Import;208197;93205;Number of items;163;01_live_animals
+Algeria;2003;010290;Bovine animals, live, except pure-bred breeding;Import;14806821;6513128;Number of items;42161;01_live_animals
+Algeria;2003;010420;Goats, live;Import;47629;740;No Quantity;;01_live_animals
+Algeria;2003;010511;Fowls, live domestic < 185 grams;Import;8569278;149040;Number of items;2936327;01_live_animals
+Algeria;2003;010519;Poultry, live except domestic fowls, < 185 grams;Import;4176944;154908;No Quantity;;01_live_animals
+Algeria;2003;010591;Fowls, live domestic > 185 grams;Import;56877;95156;No Quantity;;01_live_animals
+Algeria;2003;010600;Animals, live, except farm animals;Import;404;25;No Quantity;;01_live_animals
+Algeria;2002;010111;Horses, live pure-bred breeding;Import;75225;11500;No Quantity;;01_live_animals
+Algeria;2002;010111;Horses, live pure-bred breeding;Export;11075;885;Number of items;1;01_live_animals
+Algeria;2002;010210;Bovine animals, live pure-bred breeding;Import;52752;8000;Number of items;55;01_live_animals
+Algeria;2002;010290;Bovine animals, live, except pure-bred breeding;Import;548364;157475;No Quantity;;01_live_animals
+Algeria;2002;010511;Fowls, live domestic < 185 grams;Import;6114513;123786;Number of items;2879052;01_live_animals
+Algeria;2002;010519;Poultry, live except domestic fowls, < 185 grams;Import;1757456;123575;No Quantity;;01_live_animals
+Algeria;2002;010591;Fowls, live domestic > 185 grams;Import;142186;242177;No Quantity;;01_live_animals
+Algeria;2002;010600;Animals, live, except farm animals;Import;30585;6167;Number of items;659;01_live_animals
+Algeria;2001;010111;Horses, live pure-bred breeding;Import;15794;2000;Number of items;2;01_live_animals
+Algeria;2001;010511;Fowls, live domestic < 185 grams;Import;6453031;152698;Number of items;3353432;01_live_animals
+Algeria;2001;010519;Poultry, live except domestic fowls, < 185 grams;Import;1009640;85366;No Quantity;;01_live_animals
+Algeria;2001;010591;Fowls, live domestic > 185 grams;Import;166978;272390;No Quantity;;01_live_animals
+Algeria;2001;010600;Animals, live, except farm animals;Import;6131;139;No Quantity;;01_live_animals
+Algeria;2000;010111;Horses, live pure-bred breeding;Import;198840;20800;No Quantity;;01_live_animals
+Algeria;2000;010290;Bovine animals, live, except pure-bred breeding;Import;9458883;5159796;No Quantity;;01_live_animals
+Algeria;2000;010511;Fowls, live domestic < 185 grams;Import;5804276;195117;Number of items;2311114;01_live_animals
+Algeria;2000;010519;Poultry, live except domestic fowls, < 185 grams;Import;969809;75965;No Quantity;;01_live_animals
+Algeria;2000;010591;Fowls, live domestic > 185 grams;Import;340027;501225;No Quantity;;01_live_animals
+Algeria;2000;010600;Animals, live, except farm animals;Import;14253;211;No Quantity;;01_live_animals
+Algeria;1999;010111;Horses, live pure-bred breeding;Import;277454;42839;Weight in kilograms;42839;01_live_animals
+Algeria;1999;010210;Bovine animals, live pure-bred breeding;Import;183876;67277;Weight in kilograms;67277;01_live_animals
+Algeria;1999;010290;Bovine animals, live, except pure-bred breeding;Import;24518530;11719776;Weight in kilograms;11719776;01_live_animals
+Algeria;1999;010511;Fowls, live domestic < 185 grams;Import;6006484;135845;Weight in kilograms;135845;01_live_animals
+Algeria;1999;010519;Poultry, live except domestic fowls, < 185 grams;Import;759330;39819;Weight in kilograms;39819;01_live_animals
+Algeria;1999;010591;Fowls, live domestic > 185 grams;Import;137675;203386;Weight in kilograms;203386;01_live_animals
+Algeria;1999;010600;Animals, live, except farm animals;Import;3814;43;Weight in kilograms;43;01_live_animals
+Algeria;1998;010111;Horses, live pure-bred breeding;Import;50869;6812;Weight in kilograms;6812;01_live_animals
+Algeria;1998;010210;Bovine animals, live pure-bred breeding;Import;111854;47500;Weight in kilograms;47500;01_live_animals
+Algeria;1998;010290;Bovine animals, live, except pure-bred breeding;Import;20775256;9054979;Weight in kilograms;9054979;01_live_animals
+Algeria;1998;010420;Goats, live;Import;5570;757;Weight in kilograms;757;01_live_animals
+Algeria;1998;010511;Fowls, live domestic < 185 grams;Import;8201696;255126;Weight in kilograms;255126;01_live_animals
+Algeria;1998;010519;Poultry, live except domestic fowls, < 185 grams;Import;682679;32959;Weight in kilograms;32959;01_live_animals
+Algeria;1998;010591;Fowls, live domestic > 185 grams;Import;1431129;476627;Weight in kilograms;476627;01_live_animals
+Algeria;1998;010600;Animals, live, except farm animals;Import;1131;20;Weight in kilograms;20;01_live_animals
+Algeria;1997;010210;Bovine animals, live pure-bred breeding;Import;330903;166850;Weight in kilograms;166850;01_live_animals
+Algeria;1997;010290;Bovine animals, live, except pure-bred breeding;Import;6660527;3052124;Weight in kilograms;3052124;01_live_animals
+Algeria;1997;010410;Sheep, live;Import;49408;26960;Weight in kilograms;26960;01_live_animals
+Algeria;1997;010511;Fowls, live domestic < 185 grams;Import;6754986;175591;Weight in kilograms;175591;01_live_animals
+Algeria;1997;010591;Fowls, live domestic > 185 grams;Import;2283674;688693;Weight in kilograms;688693;01_live_animals
+Algeria;1997;010600;Animals, live, except farm animals;Import;24300;68635;Weight in kilograms;68635;01_live_animals
+Algeria;1996;010111;Horses, live pure-bred breeding;Import;7847;699;Weight in kilograms;699;01_live_animals
+Algeria;1996;010111;Horses, live pure-bred breeding;Export;34651;3125;Weight in kilograms;3125;01_live_animals
+Algeria;1996;010210;Bovine animals, live pure-bred breeding;Import;2476943;1305054;Weight in kilograms;1305054;01_live_animals
+Algeria;1996;010290;Bovine animals, live, except pure-bred breeding;Import;9117847;4311842;Weight in kilograms;4311842;01_live_animals
+Algeria;1996;010410;Sheep, live;Import;15040;32871;Weight in kilograms;32871;01_live_animals
+Algeria;1996;010511;Fowls, live domestic < 185 grams;Import;7234774;173033;Weight in kilograms;173033;01_live_animals
+Algeria;1996;010519;Poultry, live except domestic fowls, < 185 grams;Import;294;2187;Weight in kilograms;2187;01_live_animals
+Algeria;1996;010591;Fowls, live domestic > 185 grams;Import;127076;84277;Weight in kilograms;84277;01_live_animals
+Algeria;1996;010599;Poultry, live except domestic fowls, > 185 grams;Import;5845;7500;Weight in kilograms;7500;01_live_animals
+Algeria;1996;010600;Animals, live, except farm animals;Import;26239;41979;Weight in kilograms;41979;01_live_animals
+Algeria;1995;010119;Horses, live except pure-bred breeding;Import;14524;753;Weight in kilograms;753;01_live_animals
+Algeria;1995;010210;Bovine animals, live pure-bred breeding;Import;2272888;1109125;Weight in kilograms;1109125;01_live_animals
+Algeria;1995;010290;Bovine animals, live, except pure-bred breeding;Import;7456580;3890858;Weight in kilograms;3890858;01_live_animals
+Algeria;1995;010410;Sheep, live;Import;29662;6125;Weight in kilograms;6125;01_live_animals
+Algeria;1995;010511;Fowls, live domestic < 185 grams;Import;5100037;127235;Weight in kilograms;127235;01_live_animals
+Algeria;1995;010519;Poultry, live except domestic fowls, < 185 grams;Import;54247;2438;Weight in kilograms;2438;01_live_animals
+Algeria;1995;010591;Fowls, live domestic > 185 grams;Import;902270;237140;Weight in kilograms;237140;01_live_animals
+Algeria;1995;010600;Animals, live, except farm animals;Import;11518;415;Weight in kilograms;415;01_live_animals
+Algeria;1994;010210;Bovine animals, live pure-bred breeding;Import;11232776;4053741;Weight in kilograms;4053741;01_live_animals
+Algeria;1994;010290;Bovine animals, live, except pure-bred breeding;Import;4437826;2100937;Weight in kilograms;2100937;01_live_animals
+Algeria;1994;010511;Fowls, live domestic < 185 grams;Import;10825591;296801;Weight in kilograms;296801;01_live_animals
+Algeria;1994;010511;Fowls, live domestic < 185 grams;Export;497664;68335;Weight in kilograms;68335;01_live_animals
+Algeria;1994;010519;Poultry, live except domestic fowls, < 185 grams;Import;61813;1812;Weight in kilograms;1812;01_live_animals
+Algeria;1994;010591;Fowls, live domestic > 185 grams;Import;106;9;Weight in kilograms;9;01_live_animals
+Algeria;1994;010600;Animals, live, except farm animals;Import;1982;73;Weight in kilograms;73;01_live_animals
+Algeria;1994;010600;Animals, live, except farm animals;Export;2501;921;Weight in kilograms;921;01_live_animals
+Algeria;1993;010111;Horses, live pure-bred breeding;Import;165213;27761;Weight in kilograms;27761;01_live_animals
+Algeria;1993;010111;Horses, live pure-bred breeding;Export;116962;9562;Weight in kilograms;9562;01_live_animals
+Algeria;1993;010119;Horses, live except pure-bred breeding;Export;257;296;Weight in kilograms;296;01_live_animals
+Algeria;1993;010210;Bovine animals, live pure-bred breeding;Import;8246934;4711186;Weight in kilograms;4711186;01_live_animals
+Algeria;1993;010410;Sheep, live;Import;58819;12750;Weight in kilograms;12750;01_live_animals
+Algeria;1993;010511;Fowls, live domestic < 185 grams;Import;13697184;406825;Weight in kilograms;406825;01_live_animals
+Algeria;1993;010511;Fowls, live domestic < 185 grams;Export;741314;85535;Weight in kilograms;85535;01_live_animals
+Algeria;1993;010600;Animals, live, except farm animals;Import;11444;250;Weight in kilograms;250;01_live_animals
+Algeria;1992;010111;Horses, live pure-bred breeding;Import;5191;796;Weight in kilograms;796;01_live_animals
+Algeria;1992;010210;Bovine animals, live pure-bred breeding;Import;13328583;7229812;Weight in kilograms;7229812;01_live_animals
+Algeria;1992;010290;Bovine animals, live, except pure-bred breeding;Import;6767835;3824237;Weight in kilograms;3824237;01_live_animals
+Algeria;1992;010290;Bovine animals, live, except pure-bred breeding;Export;1374;398;Weight in kilograms;398;01_live_animals
+Algeria;1992;010410;Sheep, live;Import;15080731;9160492;Weight in kilograms;9160492;01_live_animals
+Algeria;1992;010511;Fowls, live domestic < 185 grams;Import;10389165;891446;Weight in kilograms;891446;01_live_animals
+Algeria;1992;010511;Fowls, live domestic < 185 grams;Export;389761;43815;Weight in kilograms;43815;01_live_animals
+Algeria;1992;010600;Animals, live, except farm animals;Import;12184;597;Weight in kilograms;597;01_live_animals
+Algeria;1992;010600;Animals, live, except farm animals;Export;7120;1503;Weight in kilograms;1503;01_live_animals
+Andorra;2014;010111;Horses, live pure-bred breeding;Export;929;350;No Quantity;;01_live_animals
+Andorra;2014;010119;Horses, live except pure-bred breeding;Import;21773;11810;No Quantity;;01_live_animals
+Andorra;2014;010119;Horses, live except pure-bred breeding;Export;183632;131961;No Quantity;;01_live_animals
+Andorra;2014;010120;Asses, mules and hinnies, live;Import;80;50;No Quantity;;01_live_animals
+Andorra;2014;010120;Asses, mules and hinnies, live;Export;4514;2900;No Quantity;;01_live_animals
+Andorra;2014;010290;Bovine animals, live, except pure-bred breeding;Import;9539;2600;Number of items;8;01_live_animals
+Andorra;2014;010290;Bovine animals, live, except pure-bred breeding;Export;1336;1120;Number of items;1;01_live_animals
+Andorra;2014;010392;Swine, live except pure-bred breeding > 50 kg;Import;6346;3400;Number of items;30;01_live_animals
+Andorra;2014;010410;Sheep, live;Import;22689;15373;Number of items;206;01_live_animals
+Andorra;2014;010410;Sheep, live;Export;9241;4550;Number of items;94;01_live_animals
+Andorra;2014;010511;Fowls, live domestic < 185 grams;Import;22701;2024;No Quantity;;01_live_animals
+Andorra;2014;010591;Fowls, live domestic > 185 grams;Import;3953;1100;Number of items;1191;01_live_animals
+Andorra;2014;010600;Animals, live, except farm animals;Export;664;300;No Quantity;;01_live_animals
+Andorra;2014;010600;Animals, live, except farm animals;Import;50745;3689;No Quantity;;01_live_animals
+Andorra;2013;010111;Horses, live pure-bred breeding;Export;1116;780;No Quantity;;01_live_animals
+Andorra;2013;010119;Horses, live except pure-bred breeding;Export;53019;34515;No Quantity;;01_live_animals
+Andorra;2013;010119;Horses, live except pure-bred breeding;Import;19244;4820;Number of items;2;01_live_animals
+Andorra;2013;010120;Asses, mules and hinnies, live;Export;6161;3680;No Quantity;;01_live_animals
+Andorra;2013;010120;Asses, mules and hinnies, live;Import;1463;1050;No Quantity;;01_live_animals
+Andorra;2013;010290;Bovine animals, live, except pure-bred breeding;Import;18834;4958;Number of items;20;01_live_animals
+Andorra;2013;010391;Swine, live except pure-bred breeding < 50 kg;Import;460;130;No Quantity;;01_live_animals
+Andorra;2013;010392;Swine, live except pure-bred breeding > 50 kg;Import;5254;2582;Number of items;27;01_live_animals
+Andorra;2013;010410;Sheep, live;Import;36812;9808;Number of items;377;01_live_animals
+Andorra;2013;010420;Goats, live;Import;17440;485;Number of items;197;01_live_animals
+Andorra;2013;010511;Fowls, live domestic < 185 grams;Import;26373;5260;Number of items;7828;01_live_animals
+Andorra;2013;010600;Animals, live, except farm animals;Import;65042;4288;No Quantity;;01_live_animals
+Andorra;2012;010111;Horses, live pure-bred breeding;Export;2314;1400;No Quantity;;01_live_animals
+Andorra;2012;010111;Horses, live pure-bred breeding;Import;1800;200;No Quantity;;01_live_animals
+Andorra;2012;010119;Horses, live except pure-bred breeding;Export;29116;25630;No Quantity;;01_live_animals
+Andorra;2012;010119;Horses, live except pure-bred breeding;Re-Import;2121;1580;Number of items;0;01_live_animals
+Andorra;2012;010119;Horses, live except pure-bred breeding;Import;13432;7930;Number of items;1;01_live_animals
+Andorra;2012;010120;Asses, mules and hinnies, live;Export;5849;3860;No Quantity;;01_live_animals
+Andorra;2012;010120;Asses, mules and hinnies, live;Import;1136;350;No Quantity;;01_live_animals
+Andorra;2012;010290;Bovine animals, live, except pure-bred breeding;Export;578;530;Number of items;1;01_live_animals
+Andorra;2012;010290;Bovine animals, live, except pure-bred breeding;Import;27401;13843;Number of items;29;01_live_animals
+Andorra;2012;010310;Swine, live pure-bred breeding;Import;257;180;Number of items;0;01_live_animals
+Andorra;2012;010391;Swine, live except pure-bred breeding < 50 kg;Import;8213;3780;No Quantity;;01_live_animals
+Andorra;2012;010392;Swine, live except pure-bred breeding > 50 kg;Import;1075;540;Number of items;6;01_live_animals
+Andorra;2012;010410;Sheep, live;Import;10675;4185;Number of items;109;01_live_animals
+Andorra;2012;010511;Fowls, live domestic < 185 grams;Import;23891;6277;Number of items;7091;01_live_animals
+Andorra;2012;010600;Animals, live, except farm animals;Import;60499;2849;No Quantity;;01_live_animals
+Andorra;2011;010111;Horses, live pure-bred breeding;Import;7155;3750;No Quantity;;01_live_animals
+Andorra;2011;010111;Horses, live pure-bred breeding;Export;8087;7750;Number of items;1;01_live_animals
+Andorra;2011;010119;Horses, live except pure-bred breeding;Export;53827;39290;No Quantity;;01_live_animals
+Andorra;2011;010119;Horses, live except pure-bred breeding;Import;16555;7460;No Quantity;;01_live_animals
+Andorra;2011;010210;Bovine animals, live pure-bred breeding;Import;2779;400;Number of items;1;01_live_animals
+Andorra;2011;010290;Bovine animals, live, except pure-bred breeding;Import;68326;28820;Number of items;74;01_live_animals
+Andorra;2011;010391;Swine, live except pure-bred breeding < 50 kg;Import;6212;2830;Number of items;90;01_live_animals
+Andorra;2011;010392;Swine, live except pure-bred breeding > 50 kg;Import;1645;902;Number of items;9;01_live_animals
+Andorra;2011;010410;Sheep, live;Import;23982;9400;No Quantity;;01_live_animals
+Andorra;2011;010420;Goats, live;Export;6285;3765;No Quantity;;01_live_animals
+Andorra;2011;010420;Goats, live;Import;1963;800;No Quantity;;01_live_animals
+Andorra;2011;010511;Fowls, live domestic < 185 grams;Import;28284;10403;Number of items;8279;01_live_animals
+Andorra;2011;010600;Animals, live, except farm animals;Import;53598;3218;No Quantity;;01_live_animals
+Andorra;2010;010111;Horses, live pure-bred breeding;Export;4755;3250;No Quantity;;01_live_animals
+Andorra;2010;010111;Horses, live pure-bred breeding;Import;598;150;No Quantity;;01_live_animals
+Andorra;2010;010119;Horses, live except pure-bred breeding;Export;77738;57829;No Quantity;;01_live_animals
+Andorra;2010;010119;Horses, live except pure-bred breeding;Import;39953;15120;No Quantity;;01_live_animals
+Andorra;2010;010210;Bovine animals, live pure-bred breeding;Import;1196;600;Number of items;1;01_live_animals
+Andorra;2010;010290;Bovine animals, live, except pure-bred breeding;Export;10514;7625;Number of items;13;01_live_animals
+Andorra;2010;010290;Bovine animals, live, except pure-bred breeding;Import;200363;85339;Number of items;252;01_live_animals
+Andorra;2010;010392;Swine, live except pure-bred breeding > 50 kg;Import;6339;2941;Number of items;32;01_live_animals
+Andorra;2010;010410;Sheep, live;Import;23847;7505;Number of items;314;01_live_animals
+Andorra;2010;010420;Goats, live;Export;528;300;No Quantity;;01_live_animals
+Andorra;2010;010420;Goats, live;Import;2855;960;Number of items;44;01_live_animals
+Andorra;2010;010511;Fowls, live domestic < 185 grams;Import;32039;6292;Number of items;9301;01_live_animals
+Andorra;2010;010591;Fowls, live domestic > 185 grams;Import;21963;200;No Quantity;;01_live_animals
+Andorra;2010;010600;Animals, live, except farm animals;Import;23475;1067;No Quantity;;01_live_animals
+Andorra;2009;010111;Horses, live pure-bred breeding;Import;8738;6250;No Quantity;;01_live_animals
+Andorra;2009;010111;Horses, live pure-bred breeding;Export;8576;7650;No Quantity;;01_live_animals
+Andorra;2009;010119;Horses, live except pure-bred breeding;Import;20341;9550;No Quantity;;01_live_animals
+Andorra;2009;010119;Horses, live except pure-bred breeding;Export;102844;57730;No Quantity;;01_live_animals
+Andorra;2009;010210;Bovine animals, live pure-bred breeding;Import;2095;600;Number of items;1;01_live_animals
+Andorra;2009;010210;Bovine animals, live pure-bred breeding;Export;7809;3000;Number of items;3;01_live_animals
+Andorra;2009;010290;Bovine animals, live, except pure-bred breeding;Import;15639;6560;Number of items;17;01_live_animals
+Andorra;2009;010290;Bovine animals, live, except pure-bred breeding;Export;976;400;Number of items;1;01_live_animals
+Andorra;2009;010391;Swine, live except pure-bred breeding < 50 kg;Import;421;214;Number of items;5;01_live_animals
+Andorra;2009;010392;Swine, live except pure-bred breeding > 50 kg;Import;6145;2668;Number of items;29;01_live_animals
+Andorra;2009;010410;Sheep, live;Import;17687;3690;Number of items;214;01_live_animals
+Andorra;2009;010410;Sheep, live;Export;276;955;Number of items;4;01_live_animals
+Andorra;2009;010420;Goats, live;Import;489;80;No Quantity;;01_live_animals
+Andorra;2009;010420;Goats, live;Export;502;100;No Quantity;;01_live_animals
+Andorra;2009;010511;Fowls, live domestic < 185 grams;Import;32861;4994;Number of items;10521;01_live_animals
+Andorra;2009;010599;Poultry, live except domestic fowls, > 185 grams;Import;1321;50;Number of items;122;01_live_animals
+Andorra;2009;010600;Animals, live, except farm animals;Import;66619;1347;No Quantity;;01_live_animals
+Andorra;2008;010111;Horses, live pure-bred breeding;Import;31597;2890;No Quantity;;01_live_animals
+Andorra;2008;010111;Horses, live pure-bred breeding;Export;78435;32970;No Quantity;;01_live_animals
+Andorra;2008;010119;Horses, live except pure-bred breeding;Import;54365;16240;No Quantity;;01_live_animals
+Andorra;2008;010119;Horses, live except pure-bred breeding;Export;90939;37845;No Quantity;;01_live_animals
+Andorra;2008;010210;Bovine animals, live pure-bred breeding;Export;2216;810;Number of items;1;01_live_animals
+Andorra;2008;010290;Bovine animals, live, except pure-bred breeding;Import;32041;10455;Number of items;41;01_live_animals
+Andorra;2008;010290;Bovine animals, live, except pure-bred breeding;Export;4729;1450;Number of items;6;01_live_animals
+Andorra;2008;010391;Swine, live except pure-bred breeding < 50 kg;Import;600;422;Number of items;10;01_live_animals
+Andorra;2008;010392;Swine, live except pure-bred breeding > 50 kg;Import;6773;2665;Number of items;39;01_live_animals
+Andorra;2008;010410;Sheep, live;Import;18477;4715;Number of items;236;01_live_animals
+Andorra;2008;010410;Sheep, live;Export;425;120;Number of items;6;01_live_animals
+Andorra;2008;010420;Goats, live;Export;148;80;No Quantity;;01_live_animals
+Andorra;2008;010420;Goats, live;Import;367;100;Number of items;5;01_live_animals
+Andorra;2008;010511;Fowls, live domestic < 185 grams;Import;30722;3976;Number of items;13561;01_live_animals
+Andorra;2008;010600;Animals, live, except farm animals;Import;90339;4161;No Quantity;;01_live_animals
+Andorra;2007;010111;Horses, live pure-bred breeding;Import;15733;2260;No Quantity;;01_live_animals
+Andorra;2007;010111;Horses, live pure-bred breeding;Export;11587;10840;No Quantity;;01_live_animals
+Andorra;2007;010119;Horses, live except pure-bred breeding;Import;148614;24695;No Quantity;;01_live_animals
+Andorra;2007;010119;Horses, live except pure-bred breeding;Export;102557;38582;No Quantity;;01_live_animals
+Andorra;2007;010210;Bovine animals, live pure-bred breeding;Import;824;350;Number of items;0;01_live_animals
+Andorra;2007;010290;Bovine animals, live, except pure-bred breeding;Import;56423;13730;Number of items;83;01_live_animals
+Andorra;2007;010392;Swine, live except pure-bred breeding > 50 kg;Import;9432;4547;Number of items;57;01_live_animals
+Andorra;2007;010410;Sheep, live;Import;31327;8011;Number of items;354;01_live_animals
+Andorra;2007;010410;Sheep, live;Export;1730;2520;Number of items;27;01_live_animals
+Andorra;2007;010420;Goats, live;Export;741;330;No Quantity;;01_live_animals
+Andorra;2007;010420;Goats, live;Import;1064;345;Number of items;15;01_live_animals
+Andorra;2007;010511;Fowls, live domestic < 185 grams;Import;32002;4138;No Quantity;;01_live_animals
+Andorra;2007;010519;Poultry, live except domestic fowls, < 185 grams;Import;1098;160;Number of items;273;01_live_animals
+Andorra;2007;010600;Animals, live, except farm animals;Import;169640;6133;No Quantity;;01_live_animals
+Andorra;2006;010111;Horses, live pure-bred breeding;Import;15642;887;No Quantity;;01_live_animals
+Andorra;2006;010111;Horses, live pure-bred breeding;Export;13005;6350;Number of items;1;01_live_animals
+Andorra;2006;010119;Horses, live except pure-bred breeding;Import;41594;23220;Number of items;4;01_live_animals
+Andorra;2006;010119;Horses, live except pure-bred breeding;Export;137118;76200;Number of items;22;01_live_animals
+Andorra;2006;010210;Bovine animals, live pure-bred breeding;Import;7417;1450;No Quantity;;01_live_animals
+Andorra;2006;010290;Bovine animals, live, except pure-bred breeding;Import;52978;27060;Number of items;158;01_live_animals
+Andorra;2006;010290;Bovine animals, live, except pure-bred breeding;Export;4218;4000;Number of items;9;01_live_animals
+Andorra;2006;010391;Swine, live except pure-bred breeding < 50 kg;Import;2495;2420;No Quantity;;01_live_animals
+Andorra;2006;010392;Swine, live except pure-bred breeding > 50 kg;Import;3473;1820;No Quantity;;01_live_animals
+Andorra;2006;010410;Sheep, live;Import;19288;4875;No Quantity;;01_live_animals
+Andorra;2006;010410;Sheep, live;Export;16429;10475;No Quantity;;01_live_animals
+Andorra;2006;010511;Fowls, live domestic < 185 grams;Import;1445;204;Number of items;540;01_live_animals
+Andorra;2006;010591;Fowls, live domestic > 185 grams;Import;22332;3639;No Quantity;;01_live_animals
+Andorra;2006;010600;Animals, live, except farm animals;Import;71087;3685;No Quantity;;01_live_animals
+Andorra;2005;010111;Horses, live pure-bred breeding;Export;8135;7000;Number of items;1;01_live_animals
+Andorra;2005;010119;Horses, live except pure-bred breeding;Export;127145;62030;Number of items;20;01_live_animals
+Andorra;2005;010210;Bovine animals, live pure-bred breeding;Export;3712;6750;Number of items;3;01_live_animals
+Andorra;2005;010290;Bovine animals, live, except pure-bred breeding;Export;1495;500;Number of items;3;01_live_animals
+Andorra;2005;010410;Sheep, live;Export;1009;945;No Quantity;;01_live_animals
+Andorra;2004;010111;Horses, live pure-bred breeding;Import;3301;450;No Quantity;;01_live_animals
+Andorra;2004;010111;Horses, live pure-bred breeding;Export;2122;1210;Number of items;0;01_live_animals
+Andorra;2004;010119;Horses, live except pure-bred breeding;Import;55647;12410;Number of items;5;01_live_animals
+Andorra;2004;010119;Horses, live except pure-bred breeding;Export;119532;66650;Number of items;19;01_live_animals
+Andorra;2004;010210;Bovine animals, live pure-bred breeding;Import;7194;3100;No Quantity;;01_live_animals
+Andorra;2004;010210;Bovine animals, live pure-bred breeding;Export;1800;1600;Number of items;1;01_live_animals
+Andorra;2004;010290;Bovine animals, live, except pure-bred breeding;Import;175208;60545;Number of items;523;01_live_animals
+Andorra;2004;010290;Bovine animals, live, except pure-bred breeding;Export;51880;27550;Number of items;106;01_live_animals
+Andorra;2004;010391;Swine, live except pure-bred breeding < 50 kg;Import;9160;4405;No Quantity;;01_live_animals
+Andorra;2004;010392;Swine, live except pure-bred breeding > 50 kg;Import;2609;1750;No Quantity;;01_live_animals
+Andorra;2004;010410;Sheep, live;Import;17084;5910;No Quantity;;01_live_animals
+Andorra;2004;010410;Sheep, live;Export;2509;2110;No Quantity;;01_live_animals
+Andorra;2004;010591;Fowls, live domestic > 185 grams;Import;21175;5435;No Quantity;;01_live_animals
+Andorra;2004;010600;Animals, live, except farm animals;Import;141249;9214;No Quantity;;01_live_animals
+Andorra;2004;010600;Animals, live, except farm animals;Export;1378;72;No Quantity;;01_live_animals
+Andorra;2003;010111;Horses, live pure-bred breeding;Import;13742;5021;No Quantity;;01_live_animals
+Andorra;2003;010111;Horses, live pure-bred breeding;Export;10779;5475;Number of items;1;01_live_animals
+Andorra;2003;010119;Horses, live except pure-bred breeding;Import;41190;20150;Number of items;4;01_live_animals
+Andorra;2003;010119;Horses, live except pure-bred breeding;Export;110005;72435;Number of items;13;01_live_animals
+Andorra;2003;010210;Bovine animals, live pure-bred breeding;Import;8379;3800;Number of items;7;01_live_animals
+Andorra;2003;010210;Bovine animals, live pure-bred breeding;Export;1359;700;Number of items;1;01_live_animals
+Andorra;2003;010290;Bovine animals, live, except pure-bred breeding;Import;49620;29080;Number of items;141;01_live_animals
+Andorra;2003;010391;Swine, live except pure-bred breeding < 50 kg;Import;1868;750;No Quantity;;01_live_animals
+Andorra;2003;010392;Swine, live except pure-bred breeding > 50 kg;Import;7959;5395;No Quantity;;01_live_animals
+Andorra;2003;010410;Sheep, live;Import;13999;4763;No Quantity;;01_live_animals
+Andorra;2003;010410;Sheep, live;Export;1087;260;Number of items;23;01_live_animals
+Andorra;2003;010420;Goats, live;Import;408;32;No Quantity;;01_live_animals
+Andorra;2003;010511;Fowls, live domestic < 185 grams;Import;619;328;Number of items;212;01_live_animals
+Andorra;2003;010591;Fowls, live domestic > 185 grams;Import;15170;6135;No Quantity;;01_live_animals
+Andorra;2003;010600;Animals, live, except farm animals;Import;259420;25184;No Quantity;;01_live_animals
+Andorra;2003;010600;Animals, live, except farm animals;Export;8474;400;No Quantity;;01_live_animals
+Andorra;2002;010111;Horses, live pure-bred breeding;Import;2636;1350;No Quantity;;01_live_animals
+Andorra;2002;010111;Horses, live pure-bred breeding;Export;14744;8760;Number of items;1;01_live_animals
+Andorra;2002;010119;Horses, live except pure-bred breeding;Import;13069;7865;Number of items;1;01_live_animals
+Andorra;2002;010119;Horses, live except pure-bred breeding;Export;97577;83820;Number of items;12;01_live_animals
+Andorra;2002;010210;Bovine animals, live pure-bred breeding;Import;61980;56210;Number of items;65;01_live_animals
+Andorra;2002;010290;Bovine animals, live, except pure-bred breeding;Import;135669;69683;No Quantity;;01_live_animals
+Andorra;2002;010290;Bovine animals, live, except pure-bred breeding;Export;8411;7100;Number of items;19;01_live_animals
+Andorra;2002;010391;Swine, live except pure-bred breeding < 50 kg;Import;1667;911;No Quantity;;01_live_animals
+Andorra;2002;010392;Swine, live except pure-bred breeding > 50 kg;Import;5410;5318;No Quantity;;01_live_animals
+Andorra;2002;010410;Sheep, live;Import;22990;12400;No Quantity;;01_live_animals
+Andorra;2002;010420;Goats, live;Import;920;280;No Quantity;;01_live_animals
+Andorra;2002;010511;Fowls, live domestic < 185 grams;Import;2355;1578;Number of items;1109;01_live_animals
+Andorra;2002;010591;Fowls, live domestic > 185 grams;Import;15414;4858;No Quantity;;01_live_animals
+Andorra;2002;010599;Poultry, live except domestic fowls, > 185 grams;Import;366;130;No Quantity;;01_live_animals
+Andorra;2002;010600;Animals, live, except farm animals;Import;81890;7609;No Quantity;;01_live_animals
+Andorra;2001;010111;Horses, live pure-bred breeding;Import;1376;950;Number of items;0;01_live_animals
+Andorra;2001;010111;Horses, live pure-bred breeding;Export;1504;800;Number of items;0;01_live_animals
+Andorra;2001;010119;Horses, live except pure-bred breeding;Import;19297;11035;No Quantity;;01_live_animals
+Andorra;2001;010119;Horses, live except pure-bred breeding;Export;125721;127460;Number of items;13;01_live_animals
+Andorra;2001;010120;Asses, mules and hinnies, live;Import;410;250;No Quantity;;01_live_animals
+Andorra;2001;010210;Bovine animals, live pure-bred breeding;Import;1201;470;No Quantity;;01_live_animals
+Andorra;2001;010290;Bovine animals, live, except pure-bred breeding;Import;326806;219703;No Quantity;;01_live_animals
+Andorra;2001;010392;Swine, live except pure-bred breeding > 50 kg;Import;8780;5204;No Quantity;;01_live_animals
+Andorra;2001;010410;Sheep, live;Import;137944;53868;No Quantity;;01_live_animals
+Andorra;2001;010410;Sheep, live;Export;9605;3730;Number of items;286;01_live_animals
+Andorra;2001;010420;Goats, live;Import;8900;1983;No Quantity;;01_live_animals
+Andorra;2001;010591;Fowls, live domestic > 185 grams;Import;16139;4391;No Quantity;;01_live_animals
+Andorra;2001;010600;Animals, live, except farm animals;Import;57383;9064;No Quantity;;01_live_animals
+Andorra;2000;010111;Horses, live pure-bred breeding;Import;2446;1850;No Quantity;;01_live_animals
+Andorra;2000;010111;Horses, live pure-bred breeding;Export;2256;1450;Number of items;0;01_live_animals
+Andorra;2000;010119;Horses, live except pure-bred breeding;Export;174591;153449;No Quantity;;01_live_animals
+Andorra;2000;010119;Horses, live except pure-bred breeding;Import;21100;12561;Number of items;2;01_live_animals
+Andorra;2000;010120;Asses, mules and hinnies, live;Export;486;525;No Quantity;;01_live_animals
+Andorra;2000;010210;Bovine animals, live pure-bred breeding;Import;35702;13810;No Quantity;;01_live_animals
+Andorra;2000;010210;Bovine animals, live pure-bred breeding;Export;883;330;Number of items;1;01_live_animals
+Andorra;2000;010290;Bovine animals, live, except pure-bred breeding;Import;794958;654122;No Quantity;;01_live_animals
+Andorra;2000;010290;Bovine animals, live, except pure-bred breeding;Export;105323;49720;Number of items;266;01_live_animals
+Andorra;2000;010391;Swine, live except pure-bred breeding < 50 kg;Import;409;360;No Quantity;;01_live_animals
+Andorra;2000;010392;Swine, live except pure-bred breeding > 50 kg;Import;9070;8358;No Quantity;;01_live_animals
+Andorra;2000;010410;Sheep, live;Import;725127;347787;No Quantity;;01_live_animals
+Andorra;2000;010420;Goats, live;Import;61925;15391;No Quantity;;01_live_animals
+Andorra;2000;010511;Fowls, live domestic < 185 grams;Import;110;81;Number of items;44;01_live_animals
+Andorra;2000;010519;Poultry, live except domestic fowls, < 185 grams;Import;66;8;No Quantity;;01_live_animals
+Andorra;2000;010591;Fowls, live domestic > 185 grams;Import;12123;4002;No Quantity;;01_live_animals
+Andorra;2000;010600;Animals, live, except farm animals;Import;193068;16702;No Quantity;;01_live_animals
+Andorra;2000;010600;Animals, live, except farm animals;Export;3092;700;No Quantity;;01_live_animals
+Andorra;1999;010111;Horses, live pure-bred breeding;Import;1617;4187;Weight in kilograms;4187;01_live_animals
+Andorra;1999;010111;Horses, live pure-bred breeding;Export;895;796;Weight in kilograms;796;01_live_animals
+Andorra;1999;010119;Horses, live except pure-bred breeding;Import;34461;11437;Weight in kilograms;11437;01_live_animals
+Andorra;1999;010119;Horses, live except pure-bred breeding;Export;99888;97573;Weight in kilograms;97573;01_live_animals
+Andorra;1999;010120;Asses, mules and hinnies, live;Import;1086;500;Weight in kilograms;500;01_live_animals
+Andorra;1999;010120;Asses, mules and hinnies, live;Export;1662;3687;Weight in kilograms;3687;01_live_animals
+Andorra;1999;010290;Bovine animals, live, except pure-bred breeding;Import;225983;141643;Weight in kilograms;141643;01_live_animals
+Andorra;1999;010290;Bovine animals, live, except pure-bred breeding;Export;158506;64585;Weight in kilograms;64585;01_live_animals
+Andorra;1999;010391;Swine, live except pure-bred breeding < 50 kg;Import;1138;1062;Weight in kilograms;1062;01_live_animals
+Andorra;1999;010392;Swine, live except pure-bred breeding > 50 kg;Import;10868;10000;Weight in kilograms;10000;01_live_animals
+Andorra;1999;010410;Sheep, live;Import;912585;372097;Weight in kilograms;372097;01_live_animals
+Andorra;1999;010410;Sheep, live;Export;17537;10562;Weight in kilograms;10562;01_live_animals
+Andorra;1999;010420;Goats, live;Import;77747;15000;Weight in kilograms;15000;01_live_animals
+Andorra;1999;010591;Fowls, live domestic > 185 grams;Import;12991;5191;Weight in kilograms;5191;01_live_animals
+Andorra;1999;010600;Animals, live, except farm animals;Import;152047;11999;Weight in kilograms;11999;01_live_animals
+Andorra;1998;010111;Horses, live pure-bred breeding;Import;8688;3312;Weight in kilograms;3312;01_live_animals
+Andorra;1998;010111;Horses, live pure-bred breeding;Export;2175;2062;Weight in kilograms;2062;01_live_animals
+Andorra;1998;010119;Horses, live except pure-bred breeding;Import;101201;41074;Weight in kilograms;41074;01_live_animals
+Andorra;1998;010119;Horses, live except pure-bred breeding;Export;84949;54449;Weight in kilograms;54449;01_live_animals
+Andorra;1998;010120;Asses, mules and hinnies, live;Import;5689;4125;Weight in kilograms;4125;01_live_animals
+Andorra;1998;010120;Asses, mules and hinnies, live;Export;937;500;Weight in kilograms;500;01_live_animals
+Andorra;1998;010210;Bovine animals, live pure-bred breeding;Import;23340;9999;Weight in kilograms;9999;01_live_animals
+Andorra;1998;010210;Bovine animals, live pure-bred breeding;Export;4919;4187;Weight in kilograms;4187;01_live_animals
+Andorra;1998;010290;Bovine animals, live, except pure-bred breeding;Import;23059;11187;Weight in kilograms;11187;01_live_animals
+Andorra;1998;010290;Bovine animals, live, except pure-bred breeding;Export;225007;96003;Weight in kilograms;96003;01_live_animals
+Andorra;1998;010392;Swine, live except pure-bred breeding > 50 kg;Import;10883;7999;Weight in kilograms;7999;01_live_animals
+Andorra;1998;010410;Sheep, live;Import;732286;275562;Weight in kilograms;275562;01_live_animals
+Andorra;1998;010410;Sheep, live;Export;153;50;Weight in kilograms;50;01_live_animals
+Andorra;1998;010420;Goats, live;Import;44606;18300;Weight in kilograms;18300;01_live_animals
+Andorra;1998;010511;Fowls, live domestic < 185 grams;Import;3848;1062;Weight in kilograms;1062;01_live_animals
+Andorra;1998;010519;Poultry, live except domestic fowls, < 185 grams;Import;729;236;Weight in kilograms;236;01_live_animals
+Andorra;1998;010591;Fowls, live domestic > 185 grams;Import;10601;6545;Weight in kilograms;6545;01_live_animals
+Andorra;1998;010599;Poultry, live except domestic fowls, > 185 grams;Import;582;562;Weight in kilograms;562;01_live_animals
+Andorra;1998;010600;Animals, live, except farm animals;Import;84232;4812;Weight in kilograms;4812;01_live_animals
+Andorra;1997;010111;Horses, live pure-bred breeding;Import;9076;2812;Weight in kilograms;2812;01_live_animals
+Andorra;1997;010119;Horses, live except pure-bred breeding;Import;28917;12624;Weight in kilograms;12624;01_live_animals
+Andorra;1997;010119;Horses, live except pure-bred breeding;Export;66387;46679;Weight in kilograms;46679;01_live_animals
+Andorra;1997;010120;Asses, mules and hinnies, live;Import;348;148;Weight in kilograms;148;01_live_animals
+Andorra;1997;010290;Bovine animals, live, except pure-bred breeding;Import;9220;5437;Weight in kilograms;5437;01_live_animals
+Andorra;1997;010290;Bovine animals, live, except pure-bred breeding;Export;275315;109085;Weight in kilograms;109085;01_live_animals
+Andorra;1997;010391;Swine, live except pure-bred breeding < 50 kg;Import;204;105;Weight in kilograms;105;01_live_animals
+Andorra;1997;010392;Swine, live except pure-bred breeding > 50 kg;Import;18406;10440;Weight in kilograms;10440;01_live_animals
+Andorra;1997;010410;Sheep, live;Import;1160974;384187;Weight in kilograms;384187;01_live_animals
+Andorra;1997;010420;Goats, live;Import;42577;8750;Weight in kilograms;8750;01_live_animals
+Andorra;1997;010511;Fowls, live domestic < 185 grams;Import;3141;1750;Weight in kilograms;1750;01_live_animals
+Andorra;1997;010519;Poultry, live except domestic fowls, < 185 grams;Import;225;97;Weight in kilograms;97;01_live_animals
+Andorra;1997;010591;Fowls, live domestic > 185 grams;Import;10722;3937;Weight in kilograms;3937;01_live_animals
+Andorra;1997;010599;Poultry, live except domestic fowls, > 185 grams;Import;129;30;Weight in kilograms;30;01_live_animals
+Andorra;1997;010600;Animals, live, except farm animals;Import;76891;5315;Weight in kilograms;5315;01_live_animals
+Andorra;1997;010600;Animals, live, except farm animals;Export;1195;558;Weight in kilograms;558;01_live_animals
+Andorra;1996;010111;Horses, live pure-bred breeding;Import;4136;1687;Weight in kilograms;1687;01_live_animals
+Andorra;1996;010111;Horses, live pure-bred breeding;Export;3646;1773;Weight in kilograms;1773;01_live_animals
+Andorra;1996;010119;Horses, live except pure-bred breeding;Import;30805;14750;Weight in kilograms;14750;01_live_animals
+Andorra;1996;010119;Horses, live except pure-bred breeding;Export;120446;72738;Weight in kilograms;72738;01_live_animals
+Andorra;1996;010120;Asses, mules and hinnies, live;Export;2763;1812;Weight in kilograms;1812;01_live_animals
+Andorra;1996;010210;Bovine animals, live pure-bred breeding;Import;51380;25448;Weight in kilograms;25448;01_live_animals
+Andorra;1996;010290;Bovine animals, live, except pure-bred breeding;Import;24711;9375;Weight in kilograms;9375;01_live_animals
+Andorra;1996;010290;Bovine animals, live, except pure-bred breeding;Export;395446;185410;Weight in kilograms;185410;01_live_animals
+Andorra;1996;010391;Swine, live except pure-bred breeding < 50 kg;Import;394;250;Weight in kilograms;250;01_live_animals
+Andorra;1996;010392;Swine, live except pure-bred breeding > 50 kg;Import;15047;12371;Weight in kilograms;12371;01_live_animals
+Andorra;1996;010410;Sheep, live;Import;1409025;431812;Weight in kilograms;431812;01_live_animals
+Andorra;1996;010420;Goats, live;Import;28595;4500;Weight in kilograms;4500;01_live_animals
+Andorra;1996;010511;Fowls, live domestic < 185 grams;Import;3687;1187;Weight in kilograms;1187;01_live_animals
+Andorra;1996;010519;Poultry, live except domestic fowls, < 185 grams;Import;173;44;Weight in kilograms;44;01_live_animals
+Andorra;1996;010591;Fowls, live domestic > 185 grams;Import;15449;6574;Weight in kilograms;6574;01_live_animals
+Andorra;1996;010599;Poultry, live except domestic fowls, > 185 grams;Import;2281;261;Weight in kilograms;261;01_live_animals
+Andorra;1996;010600;Animals, live, except farm animals;Import;74092;4002;Weight in kilograms;4002;01_live_animals
+Andorra;1996;010600;Animals, live, except farm animals;Export;750;250;Weight in kilograms;250;01_live_animals
+Andorra;1995;010111;Horses, live pure-bred breeding;Import;10766;2858;Weight in kilograms;2858;01_live_animals
+Andorra;1995;010111;Horses, live pure-bred breeding;Export;596;347;Weight in kilograms;347;01_live_animals
+Andorra;1995;010119;Horses, live except pure-bred breeding;Import;77099;26500;Weight in kilograms;26500;01_live_animals
+Andorra;1995;010119;Horses, live except pure-bred breeding;Export;124740;73195;Weight in kilograms;73195;01_live_animals
+Andorra;1995;010120;Asses, mules and hinnies, live;Import;2121;796;Weight in kilograms;796;01_live_animals
+Andorra;1995;010120;Asses, mules and hinnies, live;Export;117;296;Weight in kilograms;296;01_live_animals
+Andorra;1995;010210;Bovine animals, live pure-bred breeding;Import;60207;33296;Weight in kilograms;33296;01_live_animals
+Andorra;1995;010290;Bovine animals, live, except pure-bred breeding;Import;11702;4937;Weight in kilograms;4937;01_live_animals
+Andorra;1995;010290;Bovine animals, live, except pure-bred breeding;Export;443993;139796;Weight in kilograms;139796;01_live_animals
+Andorra;1995;010310;Swine, live pure-bred breeding;Import;761;281;Weight in kilograms;281;01_live_animals
+Andorra;1995;010391;Swine, live except pure-bred breeding < 50 kg;Import;273;128;Weight in kilograms;128;01_live_animals
+Andorra;1995;010392;Swine, live except pure-bred breeding > 50 kg;Import;13723;8937;Weight in kilograms;8937;01_live_animals
+Andorra;1995;010410;Sheep, live;Import;1631429;550812;Weight in kilograms;550812;01_live_animals
+Andorra;1995;010420;Goats, live;Import;27096;4812;Weight in kilograms;4812;01_live_animals
+Andorra;1995;010511;Fowls, live domestic < 185 grams;Import;3701;781;Weight in kilograms;781;01_live_animals
+Andorra;1995;010519;Poultry, live except domestic fowls, < 185 grams;Import;78;20;Weight in kilograms;20;01_live_animals
+Andorra;1995;010591;Fowls, live domestic > 185 grams;Import;12246;3125;Weight in kilograms;3125;01_live_animals
+Andorra;1995;010599;Poultry, live except domestic fowls, > 185 grams;Import;713;86;Weight in kilograms;86;01_live_animals
+Andorra;1995;010600;Animals, live, except farm animals;Import;65740;2769;Weight in kilograms;2769;01_live_animals
