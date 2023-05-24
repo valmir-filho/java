@@ -26,10 +26,12 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 public class Informacao3 {
     
     public static class MapperInformacao3 extends Mapper<Object, Text, Text, IntWritable> {
+        
         @Override
         public void map(Object chave, Text valor, Context context) throws IOException, InterruptedException {
             String linha = valor.toString();
             String[] campos = linha.split(";");
+            
             if(campos.length == 10) {
                 String ano = campos[1];
                 int ocorrencia = 1;
@@ -41,12 +43,15 @@ public class Informacao3 {
     }
     
     public static class ReducerInformacao3 extends Reducer<Text, IntWritable, Text, IntWritable> {
+       
         @Override
         public void reduce(Text chave, Iterable<IntWritable> valores, Context context) throws IOException, InterruptedException {
             int soma = 0;
+            
             for (IntWritable val : valores) {
                 soma += val.get();
             }
+            
             IntWritable valorSaida = new IntWritable(soma);
             context.write(chave, valorSaida);
         }
@@ -55,10 +60,12 @@ public class Informacao3 {
     public static void main(String[] args) throws IOException, InterruptedException, ClassNotFoundException {
         String arquivoEntrada = "/Users/valmirfilho/NetBeansProjects/implementacaoMapReduce/src/main/java/mycompany/implementacaomapreduce/base_100_mil.csv";
         String arquivoSaida = "/Users/valmirfilho/NetBeansProjects/implementacaoMapReduce/src/main/java/mycompany/implementacaomapreduce/informacao3";
+        
         if(args.length == 2) {
             arquivoEntrada = args[0];
             arquivoSaida = args[1];
         }
+        
         Configuration conf = new Configuration();
         Job job = Job.getInstance(conf, "informacao3");
         job.setJarByClass(Informacao3.class);
