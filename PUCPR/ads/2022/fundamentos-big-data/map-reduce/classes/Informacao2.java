@@ -1,8 +1,3 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package mycompany.implementacaomapreduce;
 
 // Imports.
@@ -27,39 +22,58 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 public class Informacao2 {
     
     public static class MapperInformacao2 extends Mapper<Object, Text, Text, IntWritable> {
+        private final static IntWritable ocorrencia = new IntWritable(1);
+        private final Text chaveMap = new Text();
+        
         @Override
         public void map(Object chave, Text valor, Context context) throws IOException, InterruptedException {
             String linha = valor.toString();
             String[] campos = linha.split(";");
+        
             if(campos.length == 10 && campos[0].equals("Brazil")) {
-                String mercadoria = campos[3];
-                int ocorrencia = 1;
-                Text chaveMap = new Text(mercadoria);
-                IntWritable valorMap = new IntWritable(ocorrencia);
-                context.write(chaveMap, valorMap);
+                String mercadoria = campos[3].trim();
+                chaveMap.set(mercadoria);
+                context.write(chaveMap, ocorrencia);
             }
         }
     }
     
     public static class ReducerInformacao2 extends Reducer<Text, IntWritable, Text, IntWritable> {
+        private final Text mercadoriaMaisTransacoes = new Text();
+        private final IntWritable maxTransacoes = new IntWritable(0);
+        
         @Override
         public void reduce(Text chave, Iterable<IntWritable> valores, Context context) throws IOException, InterruptedException {
             int soma = 0;
+            
             for (IntWritable val : valores) {
                 soma += val.get();
             }
-            IntWritable valorSaida = new IntWritable(soma);
-            context.write(chave, valorSaida);
+            
+            if (soma > maxTransacoes.get()) {
+                maxTransacoes.set(soma);
+                mercadoriaMaisTransacoes.set(chave);
+            }
+            
+            context.write(chave, new IntWritable(soma));
+        }
+        
+        @Override
+        protected void cleanup(Context context) throws IOException, InterruptedException {
+            context.write(new Text("Mercadoria com mais transações:"), maxTransacoes);
+            context.write(mercadoriaMaisTransacoes, maxTransacoes);
         }
     }
     
     public static void main(String[] args) throws IOException, InterruptedException, ClassNotFoundException {
         String arquivoEntrada = "/Users/valmirfilho/NetBeansProjects/implementacaoMapReduce/src/main/java/mycompany/implementacaomapreduce/base_100_mil.csv";
         String arquivoSaida = "/Users/valmirfilho/NetBeansProjects/implementacaoMapReduce/src/main/java/mycompany/implementacaomapreduce/informacao2";
+        
         if(args.length == 2) {
             arquivoEntrada = args[0];
             arquivoSaida = args[1];
         }
+        
         Configuration conf = new Configuration();
         Job job = Job.getInstance(conf, "informacao2");
         job.setJarByClass(Informacao2.class);
